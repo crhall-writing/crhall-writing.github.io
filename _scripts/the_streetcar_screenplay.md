@@ -1,5 +1,5 @@
 ---
-title: "The Streetcar"
+title: the streetcar
 date: 2025-09-25
 layout: script
 ---
