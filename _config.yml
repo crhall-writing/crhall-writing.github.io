@@ -26,6 +26,9 @@ collections:
   stories:
     output: true
     permalink: /stories/:title/
+  scripts:
+    output: true
+    permalink: /scripts/:title/
 
 defaults:
   - scope: { path: "", type: poems }
@@ -35,6 +38,10 @@ defaults:
   - scope: { path: "", type: stories }
     values:
       layout: story
+      sitemap: true
+  - scope: { path: "", type: scripts }
+    values:
+      layout: script
       sitemap: true
   - scope: { path: "" }
     values:
