@@ -41,6 +41,6 @@ he’ll be blown away surely
 take him inside  
 and listen to his rambled rants  
 about how accents are ruining society  
-listen to that British-sounding man  
+listen to that English-sounding man  
 
 
