@@ -17,6 +17,7 @@ minima:
 header_pages:
   - stories.md
   - poems.md
+  - scripts.md
   - about.md
 
 collections:
