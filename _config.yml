@@ -1,1 +1,17 @@
+title: "C.R. Hall — Written Works"
+description: "Poems, stories, etc."
+url: "https://crhall-writing.github.io"
+theme: minima
 
+minima:
+  skin: classic
+  social_links:
+    - platform: github
+      user_url: https://github.com/crhall-writing
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+future: false
+timezone: America/Chicago
