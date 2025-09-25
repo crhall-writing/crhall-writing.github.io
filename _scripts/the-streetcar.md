@@ -3,11 +3,6 @@ title: the streetcar
 date: 2025-09-15
 layout: script
 ---
----
-title: "The Streetcar"
-date: 2025-09-25
-layout: script
----
 int. comedy club — night
 
 
