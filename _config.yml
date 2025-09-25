@@ -15,3 +15,16 @@ plugins:
 
 future: false
 timezone: America/Chicago
+
+collections:
+  poems:
+    output: true
+    permalink: /poems/:title/
+  stories:
+    output: true
+    permalink: /stories/:title/
+defaults:
+  - scope: { path: "", type: poems }
+    values: { layout: poem, nav_weight: 2 }
+  - scope: { path: "", type: stories }
+    values: { layout: story, nav_weight: 1 }
