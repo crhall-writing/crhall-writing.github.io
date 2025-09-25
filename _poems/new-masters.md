@@ -21,11 +21,11 @@ forcing you to open them
 as they say again and again  
 and yes, oh how true that is  
 but does that not also happen   
-as I attempt to write with chalk
-as I attempt to build my tools
-as I attempt to solve things unknown
-they will always be there
-seeing me for what they will
-I might as well go with my temper
-and they can watch me do what I will
-with hand gripping their member
+as I attempt to write with chalk  
+as I attempt to build my tools  
+as I attempt to solve things unknown  
+they will always be there  
+seeing me for what they will  
+I might as well go with my temper  
+and they can watch me do what I will  
+with hand gripping their member  
