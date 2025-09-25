@@ -3,7 +3,7 @@ title: memory
 date: 2025-09-01
 layout: poem
 ---
-I held a glass of wine, leaning back against the dining room table. I stood and watched him write, drawing pictures that amazed me, diagrams that could’ve only come from a place of pure brilliance, with perfect understanding of all he sees. 
+I held a glass of wine, leaning back against the dining room table. I stood and watched him write, drawing pictures that amazed me, diagrams that could’ve only come from a place of perfect understanding.
 
 <br>
 
