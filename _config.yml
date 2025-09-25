@@ -1,20 +1,23 @@
 title: "c.r. hall — written works"
 description: "poems, stories, etc."
 url: "https://crhall-writing.github.io"
-theme: minima
+baseurl: ""
+permalink: pretty
+timezone: America/Chicago
+future: false
 
+theme: minima
 minima:
   skin: classic
+  date_format: "%-d %b %Y"
   social_links:
     - platform: github
       user_url: https://github.com/crhall-writing
 
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-
-future: false
-timezone: America/Chicago
+header_pages:
+  - stories.md
+  - poems.md
+  - about.md
 
 collections:
   poems:
@@ -23,8 +26,47 @@ collections:
   stories:
     output: true
     permalink: /stories/:title/
+
 defaults:
   - scope: { path: "", type: poems }
-    values: { layout: poem, nav_weight: 2 }
+    values:
+      layout: poem
+      sitemap: true
   - scope: { path: "", type: stories }
-    values: { layout: story, nav_weight: 1 }
+    values:
+      layout: story
+      sitemap: true
+  - scope: { path: "" }
+    values:
+      lang: en
+      toc: false
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  footnote_backlink: "↩︎"
+
+sass:
+  style: compressed
+
+exclude:
+  - node_modules
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - .gitignore
+  - .github/
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+feed:
+  collections:
+    - poems
+    - stories
