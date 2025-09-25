@@ -13,84 +13,27 @@
 .list-link { text-decoration: none; }
 .list-link:hover { text-decoration: underline; }
 
-/* Screenplay look */
-.script .reading { max-width: 48rem; }
-.script .reading-title { text-align: center; letter-spacing: .02em; }
-
-/* Preserve line breaks exactly as written */
-.script .script-body { white-space: pre-wrap; }
-
-/* Faux typewriter vibe without going monospaced everywhere */
-.script .script-body {
-  line-height: 1.55;
-  font-size: 1.05rem;
-}
-
-/* Indent scene directions a touch */
-.script .script-body p { margin: 0 0 .9em; }
-.script .script-body em { font-style: italic; } /* italics remain italics */
-
-/* Optional: style character cues if you write them on their own line in ALL CAPS */
-.script .script-body :where(p, div) {
-  /* basic nothing here; kept for future hooks */
-}
-/* Example hooks you can enable later:
-.script .script-body p:has(> strong:only-child) { text-transform: uppercase; letter-spacing: .04em; }
-*/
-
-
-/* ---------- Screenplay formatting ---------- */
+/* ---------- Screenplay formatting (robust) ---------- */
 .script-body {
-  white-space: pre-wrap;       /* preserve your manual line breaks */
-  font-family: "Courier Prime", monospace; /* optional: free screenplay font */
+  white-space: normal;              /* JS rebuilds lines into block divs */
+  font-family: "Courier Prime", Courier, monospace;
   line-height: 1.6;
   font-size: 1rem;
-  max-width: 7in;              /* ~screenplay page width */
+  max-width: 7in;                   /* classic script width */
   margin: 0 auto;
 }
 
-/* Character cues: ALL CAPS on their own line */
-.script-body p,
-.script-body div,
-.script-body span {
-  margin: 0;
-}
+.script-title { text-align: center; letter-spacing: .02em; margin-bottom: 1rem; }
 
-/* Centered character names */
-.script-body {
-  display: block;
-}
-.script-body {
-  /* fallback spacing */
-}
-.script-body :where(p, div):matches(:has-text("JERRY"), :has-text("GEORGE"),
-                                    :has-text("ELAINE"), :has-text("KRAMER"),
-                                    :has-text("NEWMAN"), :has-text("HARRY"),
-                                    :has-text("DON"), :has-text("LIPPMAN")) {
-  text-align: center;
-  margin: 1.2em 0 0.2em;
-  font-weight: bold;
-  letter-spacing: .05em;
-}
+.script-body .gap       { height: 0.9em; }                /* blank line */
+.script-body .scene     { text-align: left; text-transform: uppercase; font-weight: 700; margin: 1.2em 0 .4em; }
+.script-body .transition{ text-align: left; text-transform: uppercase; margin: 1.2em 0 .4em; }
+.script-body .cue       { text-align: center; font-weight: 700; letter-spacing: .05em; margin: 1.1em 0 .2em; }
+.script-body .dialogue  { text-align: center; margin: 0 0 1em; }
+.script-body .action    { text-align: left; font-style: italic; margin: .8em 0; }
 
-/* Dialogue: lines after a name (normal sentence case) */
-.script-body p + p {
-  text-align: center;
-  margin: 0 0 1em;
-}
-
-/* Stage directions: [brackets] */
-.script-body p:has([class]),
-.script-body p:matches(:has-text("[")) {
-  text-align: left;
-  font-style: italic;
-  margin: 0.8em 0;
-}
-
-/* Scene headings (INT. / EXT.) */
-.script-body p:matches(:has-text("INT."), :has-text("EXT.")) {
-  text-align: left;
-  text-transform: uppercase;
-  margin: 1.5em 0 0.5em;
-  font-weight: bold;
+/* Optional: page-like printout */
+@media print {
+  .site-header, .site-footer, nav { display: none !important; }
+  .script-body { font-size: 11pt; line-height: 1.5; }
 }
