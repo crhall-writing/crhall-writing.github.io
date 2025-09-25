@@ -12,8 +12,6 @@ layout: default
   const root = document.getElementById('script-body');
   if (!root) return;
 
-  // Take the rendered HTML and turn paragraphs/br into newlines,
-  // but keep inline tags like <em> intact.
   const raw = root.innerHTML
     .replace(/<\/p>\s*<p>/gi, '\n\n')
     .replace(/<br\s*\/?>/gi, '\n')
@@ -23,44 +21,20 @@ layout: default
 
   const lines = raw.split('\n');
   const out = [];
-
-  function textOnly(html) {
-    return html.replace(/<[^>]*>/g, '').trim();
-  }
+  const strip = (h) => h.replace(/<[^>]*>/g, '').trim();
 
   for (let i = 0; i < lines.length; i++) {
     const rawLine = lines[i].replace(/\r$/, '');
-    const t = textOnly(rawLine).trim();
+    const t = strip(rawLine);
 
-    // blank line = spacing break
     if (!t) { out.push('<div class="gap"></div>'); continue; }
+    if (/^(INT\.|EXT\.)\b/i.test(t)) { out.push(`<div class="scene">${t.toUpperCase()}</div>`); continue; }
+    if (/^(FADE IN|FADE OUT|FADE TO|CUT TO)(:)?$/i.test(t)) { out.push(`<div class="transition">${t.toUpperCase().replace(/\.$/,'')}</div>`); continue; }
+    if (/^\[.*\]$/.test(t)) { out.push(`<div class="action">${rawLine}</div>`); continue; }
 
-    // Scene headings
-    if (/^(INT\.|EXT\.)\b/i.test(t)) {
-      out.push(`<div class="scene">${t.toUpperCase()}</div>`);
-      continue;
-    }
+    const isCue = /^[A-Z0-9 .'()\-]+$/.test(t) && t === t.toUpperCase() && t.length <= 40;
+    if (isCue) { out.push(`<div class="cue">${t}</div>`); continue; }
 
-    // Transitions
-    if (/^(FADE IN|FADE OUT|FADE TO|CUT TO)(:)?$/i.test(t)) {
-      out.push(`<div class="transition">${t.toUpperCase().replace(/\.$/,'')}</div>`);
-      continue;
-    }
-
-    // Stage directions (whole line in [brackets])
-    if (/^\[.*\]$/.test(t)) {
-      out.push(`<div class="action">${rawLine}</div>`);
-      continue;
-    }
-
-    // Character cue: all caps-ish (letters, spaces, punctuation), shortish
-    const isAllCapsish = /^[A-Z0-9 .'()\-]+$/.test(t) && t === t.toUpperCase() && t.length <= 40;
-    if (isAllCapsish) {
-      out.push(`<div class="cue">${t}</div>`);
-      continue;
-    }
-
-    // Dialogue (default)
     out.push(`<div class="dialogue">${rawLine}</div>`);
   }
 
