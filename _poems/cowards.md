@@ -76,27 +76,27 @@ when you cannot make it yourself?
 
 <br>
 
-Why is it now
+why is it now
 
-That I don’t look up
+that I don’t look up
 
-At you in that tall and stoney tower?
-
-<br>
-
-Why is it now
-
-Rules you declare vanish
-
-The very moment they apply to you?
+at you in that tall and stoney tower?
 
 <br>
 
-Why is it now
+why is it now
 
-You tell me I’m lesser, won’t meet my eyes
+rules you declare vanish
 
-Because I felt more than you ever could? 
+the very moment they apply to you?
+
+<br>
+
+why is it now
+
+you tell me I’m lesser, won’t meet my eyes
+
+because I felt more than you ever could? 
 
 
 
