@@ -12,3 +12,29 @@
 .list-plain li { margin: .5rem 0; }
 .list-link { text-decoration: none; }
 .list-link:hover { text-decoration: underline; }
+
+/* Screenplay look */
+.script .reading { max-width: 48rem; }
+.script .reading-title { text-align: center; letter-spacing: .02em; }
+
+/* Preserve line breaks exactly as written */
+.script .script-body { white-space: pre-wrap; }
+
+/* Faux typewriter vibe without going monospaced everywhere */
+.script .script-body {
+  line-height: 1.55;
+  font-size: 1.05rem;
+}
+
+/* Indent scene directions a touch */
+.script .script-body p { margin: 0 0 .9em; }
+.script .script-body em { font-style: italic; } /* italics remain italics */
+
+/* Optional: style character cues if you write them on their own line in ALL CAPS */
+.script .script-body :where(p, div) {
+  /* basic nothing here; kept for future hooks */
+}
+/* Example hooks you can enable later:
+.script .script-body p:has(> strong:only-child) { text-transform: uppercase; letter-spacing: .04em; }
+*/
+
