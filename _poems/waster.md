@@ -3,7 +3,7 @@ title: waster
 date: 2025-08-16
 layout: poem
 ---
-ah yes -- tis I
+ah yes -- 'tis I
 
 the premier waster of time
 
