@@ -55,7 +55,7 @@ use me to know you've lost the lead
 
 oh, but please don't use my love
 
-will you just take it from another> 
+will you just take it from another? 
 
 for it's my father who used up
 
