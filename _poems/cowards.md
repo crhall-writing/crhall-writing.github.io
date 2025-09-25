@@ -4,75 +4,75 @@ date: 2025-09-01
 layout: poem
 ---
 
-Why is it now
+why is it now
 
-That achievements stop being admirable
+that achievements stop being admirable
 
-When someone you don’t admire achieves?
-
-<br>
-
-Why is it now
-
-You call this the meaning of your life
-
-Then drop it the instant you are outrun?
+when someone you don’t admire achieves?
 
 <br>
 
-Why is it now
+why is it now
 
-Devotion is required ‘til I devote
+you call this the meaning of your life
 
-Then suddenly I am too serious?
-
-<br>
-
-Why is it now
-
-Angels take themselves lightly 
-
-Yet my resting is lacking severity?
+then drop it the instant you are outrun?
 
 <br>
 
-Why is it now
+why is it now
 
-Your virtues abandoned when challenged
+devotion is required ‘til I devote
 
-You shield your eyes and call it wisdom?
-
-<br>
-
-Why is it now
-
-You lack the courage to believe what you do
-
-Against the men you know will uplift you?
+then suddenly I am too serious?
 
 <br>
 
-Why is it now
+why is it now
 
-The lies do ring true; a sponge
+angels take themselves lightly 
 
-Sucking the life from all who are near?
-
-<br>
-
-Why is it now
-
-You borrow every voice for your argument
-
-Never a word from your own mind?
+yet my resting is lacking severity?
 
 <br>
 
-Why is it now 
+why is it now
 
-You decree what is or isn’t art
+your virtues abandoned when challenged
 
-When you cannot make it yourself?
+you shield your eyes and call it wisdom?
+
+<br>
+
+why is it now
+
+you lack the courage to believe what you do
+
+against the men you know will uplift you?
+
+<br>
+
+why is it now
+
+the lies do ring true; a sponge
+
+sucking the life from all who are near?
+
+<br>
+
+why is it now
+
+you borrow every voice for your argument
+
+never a word from your own mind?
+
+<br>
+
+why is it now 
+
+you decree what is or isn’t art
+
+when you cannot make it yourself?
 
 <br>
 
