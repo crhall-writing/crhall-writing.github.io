@@ -10,7 +10,7 @@ all because the way
 
 your foot pressed to mine
 
-
+<br>
 
 each chance to shake you
 
@@ -20,7 +20,7 @@ when clothes soaked through
 
 your pat in my core
 
-
+<br>
 
 those sad eyes stare
 
@@ -30,7 +30,7 @@ a half-lidded dare
 
 and my soul to go
 
-
+<br>
 
 and you stopped me there
 
@@ -40,7 +40,7 @@ soon tell me, you'd swear
 
 you knew all along
 
-
+<br>
 
 it slipped through, though
 
