@@ -1,5 +1,5 @@
 ---
-title: "The Shave"
+title: the shave
 date: 2025-09-25
 layout: script
 ---
