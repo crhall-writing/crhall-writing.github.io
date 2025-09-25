@@ -4,24 +4,6 @@ date: 2025-09-25
 layout: script
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-	By
-
-
-
-
-
 int. comedy club — night
 
 
