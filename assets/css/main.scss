@@ -37,3 +37,7 @@
   .site-header, .site-footer, nav { display: none !important; }
   .script-body { font-size: 11pt; line-height: 1.5; }
 }
+
+.site-footer .footer-col-1 {
+  display: none;
+}
