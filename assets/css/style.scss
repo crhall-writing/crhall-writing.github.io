@@ -38,3 +38,59 @@
 .script .script-body p:has(> strong:only-child) { text-transform: uppercase; letter-spacing: .04em; }
 */
 
+
+/* ---------- Screenplay formatting ---------- */
+.script-body {
+  white-space: pre-wrap;       /* preserve your manual line breaks */
+  font-family: "Courier Prime", monospace; /* optional: free screenplay font */
+  line-height: 1.6;
+  font-size: 1rem;
+  max-width: 7in;              /* ~screenplay page width */
+  margin: 0 auto;
+}
+
+/* Character cues: ALL CAPS on their own line */
+.script-body p,
+.script-body div,
+.script-body span {
+  margin: 0;
+}
+
+/* Centered character names */
+.script-body {
+  display: block;
+}
+.script-body {
+  /* fallback spacing */
+}
+.script-body :where(p, div):matches(:has-text("JERRY"), :has-text("GEORGE"),
+                                    :has-text("ELAINE"), :has-text("KRAMER"),
+                                    :has-text("NEWMAN"), :has-text("HARRY"),
+                                    :has-text("DON"), :has-text("LIPPMAN")) {
+  text-align: center;
+  margin: 1.2em 0 0.2em;
+  font-weight: bold;
+  letter-spacing: .05em;
+}
+
+/* Dialogue: lines after a name (normal sentence case) */
+.script-body p + p {
+  text-align: center;
+  margin: 0 0 1em;
+}
+
+/* Stage directions: [brackets] */
+.script-body p:has([class]),
+.script-body p:matches(:has-text("[")) {
+  text-align: left;
+  font-style: italic;
+  margin: 0.8em 0;
+}
+
+/* Scene headings (INT. / EXT.) */
+.script-body p:matches(:has-text("INT."), :has-text("EXT.")) {
+  text-align: left;
+  text-transform: uppercase;
+  margin: 1.5em 0 0.5em;
+  font-weight: bold;
+}
