@@ -2,8 +2,68 @@
 layout: default
 ---
 <main class="script-wrap">
-  <article class="script-body">
-    <h1 class="script-title">{{ page.title }}</h1>
+  <article class="script-body" id="script-body">
     {{ content }}
   </article>
 </main>
+
+<script>
+(function () {
+  const root = document.getElementById('script-body');
+  if (!root) return;
+
+  // Take the rendered HTML and turn paragraphs/br into newlines,
+  // but keep inline tags like <em> intact.
+  const raw = root.innerHTML
+    .replace(/<\/p>\s*<p>/gi, '\n\n')
+    .replace(/<br\s*\/?>/gi, '\n')
+    .replace(/^\s*<p>/i, '')
+    .replace(/<\/p>\s*$/i, '')
+    .trim();
+
+  const lines = raw.split('\n');
+  const out = [];
+
+  function textOnly(html) {
+    return html.replace(/<[^>]*>/g, '').trim();
+  }
+
+  for (let i = 0; i < lines.length; i++) {
+    const rawLine = lines[i].replace(/\r$/, '');
+    const t = textOnly(rawLine).trim();
+
+    // blank line = spacing break
+    if (!t) { out.push('<div class="gap"></div>'); continue; }
+
+    // Scene headings
+    if (/^(INT\.|EXT\.)\b/i.test(t)) {
+      out.push(`<div class="scene">${t.toUpperCase()}</div>`);
+      continue;
+    }
+
+    // Transitions
+    if (/^(FADE IN|FADE OUT|FADE TO|CUT TO)(:)?$/i.test(t)) {
+      out.push(`<div class="transition">${t.toUpperCase().replace(/\.$/,'')}</div>`);
+      continue;
+    }
+
+    // Stage directions (whole line in [brackets])
+    if (/^\[.*\]$/.test(t)) {
+      out.push(`<div class="action">${rawLine}</div>`);
+      continue;
+    }
+
+    // Character cue: all caps-ish (letters, spaces, punctuation), shortish
+    const isAllCapsish = /^[A-Z0-9 .'()\-]+$/.test(t) && t === t.toUpperCase() && t.length <= 40;
+    if (isAllCapsish) {
+      out.push(`<div class="cue">${t}</div>`);
+      continue;
+    }
+
+    // Dialogue (default)
+    out.push(`<div class="dialogue">${rawLine}</div>`);
+  }
+
+  root.innerHTML = out.join('\n');
+})();
+</script>
