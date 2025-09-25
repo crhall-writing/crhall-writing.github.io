@@ -10,7 +10,7 @@ I thought I saw it more
 
 than would've been coincidence
 
-<br><br>
+<br>
 
 I know nothing about you
 
@@ -20,7 +20,7 @@ and yet I can't help but intrude
 
 or bump the wall with my purse
 
-
+<br>
 
 I can be so confident
 
@@ -30,7 +30,7 @@ but how I'm such a mess
 
 every moment I see her
 
-
+<br>
 
 I know it'll be gone soon
 
@@ -40,7 +40,7 @@ I'll never really know you
 
 and we'll never be together
 
-
+<br>
 
 but you looked at me
 
@@ -50,7 +50,7 @@ how lovely it would be
 
 to know your name at last
 
-
+<br>
 
 but I'll just be here my pen in hand
 
