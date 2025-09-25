@@ -1,6 +1,7 @@
 ---
 title: groceries
 date: 2025-09-22
+layout: poem
 ---
 in aisle 12 of the grocery store
 
