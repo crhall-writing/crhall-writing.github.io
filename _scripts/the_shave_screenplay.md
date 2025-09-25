@@ -9,7 +9,6 @@ layout: script
 
 
 
-By
 
 
 
