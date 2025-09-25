@@ -3,19 +3,19 @@ title: time waster
 date: 2025-08-28
 layout: story
 ---
-The splash was crisp on my cheeks. Water bubbled from the dingy faucet, and I watched it stream into the dark; the drain was uncovered, gaping enough to feel a cold draft under my chin. The sink was worn and porcelain, much like the girl who would walk in here after me. I lifted my head to look at the tiled, tagged walls, a single lightbulb hanging from a chain over me; a low sepia glow from the fixture wasn’t in this case comforting, but instead sickly. I looked in the small, scratched mirror, at my reflection barely visible, but what caught my attention was the enormous shadow cast behind me, still in its place as I was. It suddenly became obvious how much colder it was in this bathroom, isolated and exposed, in comparison with the outside—or *inside—*with patrons dense like pudding; warm and amalgamated, a monolith until last call would be announced. 
+The splash was crisp on my cheeks. Water bubbled from the dingy faucet, and I watched it stream into the dark; the drain was uncovered, gaping enough to feel a cold draft under my chin. The sink was worn and porcelain, much like the girl who would walk in here after me. I lifted my head to look at the tiled, tagged walls, a single lightbulb hanging from a chain over me; a low sepia glow from the fixture wasn’t in this case comforting, but instead sickly. I looked in the small, scratched mirror, at my reflection barely visible, but what caught my attention was the enormous shadow cast behind me, still in its place as I was. It suddenly became obvious how much colder it was in this bathroom, isolated and exposed, in comparison with the outside—or *inside—* with patrons dense like pudding; warm and amalgamated, a monolith until last call would be announced. 
 
-The muffled sounds of voices filtered in and were morphed and stretched yet neither torn nor redone by my filter—the one which spun my head and wobbled my legs. I thought about my place in this small box. *How was I to get back? *But I had already decided I no longer had a place there and had been ready to go for some time. This place didn’t need to be somewhere I had to escape, but there was only so long I’d be able to get by here, to mooch food off another strange man who bore awfully close resemblance to some real man from my real life. *Real life. *What, now, did that term even mean? Was this place real in the way I knew, or something different? 
+The muffled sounds of voices filtered in and were morphed and stretched yet neither torn nor redone by my filter—the one which spun my head and wobbled my legs. I thought about my place in this small box. *How was I to get back?* But I had already decided I no longer had a place there and had been ready to go for some time. This place didn’t need to be somewhere I had to escape, but there was only so long I’d be able to get by here, to mooch food off another strange man who bore awfully close resemblance to some real man from my real life. *Real life.* What, now, did that term even mean? Was this place real in the way I knew, or something different? 
 
-With that, I hit my elbow on the door. *Yowch**. *I was far too gone to even have a reaction to that and went back to staring into the scratches and smudges above the sink, trying through them to catch a glimpse of my hair—flattened by the dry and cold but now beginning to frizz due to the countless breaths in the main room. I wet my hand and used the water to tame fraying strands. I more gracefully undid the latch and used my shoulder to push the door open, a wave of humidity welcoming me back into civilization. 
+With that, I hit my elbow on the door. *Yowch*. I was far too gone to even have a reaction to that and went back to staring into the scratches and smudges above the sink, trying through them to catch a glimpse of my hair—flattened by the dry and cold but now beginning to frizz due to the countless breaths in the main room. I wet my hand and used the water to tame fraying strands. I more gracefully undid the latch and used my shoulder to push the door open, a wave of humidity welcoming me back into civilization. 
 
-It took me some moments of pushing through the clientele—a few friends seated with more friends looming over from behind, still able to huddle together and hear each other even with a group of six, seven, or eight. I got up to the counter and used it for a kind of balance. *I’m going to be sick. *I removed my coat for some relief and set it on the back of a chair beside me. Head swirling, my eyes would go out of and come back into focus, and suddenly I wasn’t aware of nor cared about the people around me. The soft sound of guitar floated into and around my ears, and every so often I’d hear a word, and connect it with an object I’d see in front of me. *Kismet. *
+It took me some moments of pushing through the clientele—a few friends seated with more friends looming over from behind, still able to huddle together and hear each other even with a group of six, seven, or eight. I got up to the counter and used it for a kind of balance. *I’m going to be sick.* I removed my coat for some relief and set it on the back of a chair beside me. Head swirling, my eyes would go out of and come back into focus, and suddenly I wasn’t aware of nor cared about the people around me. The soft sound of guitar floated into and around my ears, and every so often I’d hear a word, and connect it with an object I’d see in front of me. *Kismet.*
 
 “Twisted mouths,” I heard her softly wail, as my eyes met a beautiful person’s face with a mangled set of teeth, lingering smears of pink surrounding their chin and chapped lips. “Who will pay,” she proclaimed, my attention zeroing in on a pair of calloused, dark hands removing a tattered bill from his blanched and cracked wallet. 
 
 “You gotta stop that.” My thoughts were suddenly interrupted by a voice so close it seemed like it couldn’t have come from outside of my own head. I stared forward, not seeing anything but a homogenous crowd. Movement appeared in my periphery and there he stood, tall, young, and so reductively handsome he wasn’t at all attractive. No facial hair was present, not even stubble, with thick and straight locks from his head only long enough to slightly hang over downturned eyes. Something in his eyes felt incredibly distant, empty, as if there was no one there behind them. I couldn’t make out the color, trying a few times yet being overcome by nausea due to the coat of smoked and spat tobacco along with a dank mildew I’d only smelled during basement concerts in college. Keeping some space between myself and my focus seemed to help avoid the vomit-preceding heat on the tongue. 
 
-I didn’t reply—not from lack of something to say, but from indecision on *what *to say. Without warning my face was hot, my lips forming a small frown and my eyes brimmed with tears. 
+I didn’t reply—not from lack of something to say, but from indecision on *what* to say. Without warning my face was hot, my lips forming a small frown and my eyes brimmed with tears. 
 
 “I told ya—*stop.*” 
 
@@ -63,15 +63,15 @@ My eyebrows furrowed and I finally got a look into his eyes. I wasn’t thinking
 
 His rather emotionless face became uncanny as he finally let out a small smile. “Or slow ‘er down.” 
 
-I closed my eyes once again and opened them now to see crows’ feet surrounding his eyes, once again keeping me from noticing the color. The smell of tobacco was replaced by the smell of marijuana—someone must’ve stepped into the place just then. Taking a deep breath in, sweet and familiar skunk entered my nose, and I thought certain indeterminate notes were different from what I’d expect from the scent; I let my eyes wander, seeing an even fuller bar. At some point the live guitar stopped, and now some faint recording of *Layla *was playing. 
+I closed my eyes once again and opened them now to see crows’ feet surrounding his eyes, once again keeping me from noticing the color. The smell of tobacco was replaced by the smell of marijuana—someone must’ve stepped into the place just then. Taking a deep breath in, sweet and familiar skunk entered my nose, and I thought certain indeterminate notes were different from what I’d expect from the scent; I let my eyes wander, seeing an even fuller bar. At some point the live guitar stopped, and now some faint recording of *Layla* was playing. 
 
 Anyone who’d seen me would’ve surely thought I was under some type of intense influence. And I supposed I was. I was moved by the martini glass in my hand, the man with—*longer?*—brown hair, the smells of our surroundings changing as fast as my mind could keep up with the fast-paced dialogue escaping his mouth. I felt already that I could listen to it forever and never become tired. I took a sizable inhale over my drink, surprising myself with an unexpected fume which too made me gag as the taste of my new companion’s drink had moments ago. That sensory experience made me perkier for this moment. “What are you talking about?” 
 
 He didn’t answer, instead focusing out the door which had before captured my attention. 
 
-*Is it snowing harder now? *Though I couldn’t see any snowflakes fall, the streetcar tracks were covered by an undisturbed white blanket. 
+*Is it snowing harder now?* Though I couldn’t see any snowflakes fall, the streetcar tracks were covered by an undisturbed white blanket. 
 
-“They’ve still got no ice in ‘ere.” He ran a hand through his shoulder-length hair. *No way was it that long before. *“Ya might as well drink it like that.” He looked down to my glass-in-hand. “No point in waitin’ for it to come.” 
+“They’ve still got no ice in ‘ere.” He ran a hand through his shoulder-length hair. *No way was it that long before.* “Ya might as well drink it like that.” He looked down to my glass-in-hand. “No point in waitin’ for it to come.” 
 
 “I wasn’t waiting.”
 
@@ -99,7 +99,7 @@ I shook my head.
 
 “Know what?”
 
-“Ya got a light?”* *
+“Ya got a light?”
 
 I smiled, that frustrated smile that I tried to cover with a frown, making my face contort and the smile even more obvious to any observers. I shook my head. “I don’t do that.”
 
@@ -113,7 +113,7 @@ I was now staring at him, my focus fading in and out, eyes again half-lidded, a 
 
 “So, come now,” he motioned towards two now-empty bar seats we’d been surrounding. I followed his lead after he took a seat. He rested an elbow up on his knee and outstretched his hand towards me. “Put yer mouth up fer me and try this ‘ere.” 
 
-The raising of his eyebrows gave away how visible my own expression was. *So gross, *I thought. But I shifted my weight forward, forming my lips around the cigarette.
+The raising of his eyebrows gave away how visible my own expression was. *So gross,* I thought. But I shifted my weight forward, forming my lips around the cigarette.
 
 “There ya go,” he whispered and reached back into his coat pocket as I balanced it in my mouth. “Keep it right there fer me.” He pushed a lighter into my face and flicked it a few times before it caught. “You know how to pull, don’t ya?” 
 
@@ -121,11 +121,11 @@ The raising of his eyebrows gave away how visible my own expression was. *So gro
 
 His arm in its awkward position moved slightly with his laugh. “Alright then. Show me how it’s done.” 
 
-Taking the cigarette in my fingers, I scrunched my face and braced myself. I remembered how I coughed, and coughed, and coughed after taking my first hit of a joint. *I looked ridiculous. Don’t do that. *I inhaled deeply—too deeply—and coughed, and coughed, and coughed. *Damn it.** *I set my drink down on the counter. * *
+Taking the cigarette in my fingers, I scrunched my face and braced myself. I remembered how I coughed, and coughed, and coughed after taking my first hit of a joint. *I looked ridiculous. Don’t do that.* I inhaled deeply—too deeply—and coughed, and coughed, and coughed. *Damn it.* I set my drink down on the counter.
 
 “Alright. Alright.” He took the cigarette away and gave me a few pats on the back; I could feel even his palms mocking me. “I get it. What were ya pullin’ before? Freight trains?” 
 
-I cleared my throat, but when I tried to speak, my voice immediately cracked. *God. *
+I cleared my throat, but when I tried to speak, my voice immediately cracked. *God.*
 
 “It’s ‘kay, kiddo.” Though he smiled, it stopped at his eyes. He was focused on the front door. 
 
@@ -133,7 +133,7 @@ I cleared my throat, but when I tried to speak, my voice immediately cracked. *G
 
 He didn’t look at me, furrowing his eyebrows. “I mean, I guess it’s snowin’ in October.” I saw his smile fade when he looked back to me. “‘s that what you mean?” His eyes seemed to droop at the sides even more than before; it gave some appearance of sadness, maybe brought on by the oncoming winter, maybe from some other thing. 
 
-I still didn’t know what I meant. Something weird *was** *happening, but I wasn’t entirely sure of what. It wasn’t anything obvious—nothing I could grasp or no reason I should scream; just an ambiguous layer of *odd *that draped the humid room. “Nothing, I guess.” 
+I still didn’t know what I meant. Something weird *was* happening, but I wasn’t entirely sure of what. It wasn’t anything obvious—nothing I could grasp or no reason I should scream; just an ambiguous layer of *odd* that draped the humid room. “Nothing, I guess.” 
 
 “You guess?” 
 
@@ -153,13 +153,13 @@ I must’ve been staring too intently at his hair—he raised one brow, the line
 
 “What is it? Never seen a guy wanna dance?” As his smile formed, I noticed the skin at the corners of his mouth gathered in ripples. Someone I originally thought was around my age now seemed to be maybe fifteen or more years older. 
 
-“Dance?” It was then I could hear an entirely different type of music flood the bar. Gated reverb was all I could process surely, otherwise paying attention to other instrumentation was futile. My wrist was clasped by his hand and eventually I was pulled towards the center of the room, passing by a patron who coughed directly onto me. *Nice**. *
+“Dance?” It was then I could hear an entirely different type of music flood the bar. Gated reverb was all I could process surely, otherwise paying attention to other instrumentation was futile. My wrist was clasped by his hand and eventually I was pulled towards the center of the room, passing by a patron who coughed directly onto me. *Nice*.
 
 I didn’t know much about what to do with myself—I was overwhelmed by perfumes and caked makeup; large, frizzed hair and mullets hung down onto combinations of leather and denim, blue and black and black and blue, red lips everywhere between. I swayed to whatever rhythm the songs demanded, and my focus seemed to go in and out at a similar pace. Eventually I got pushed into my happenstance partner, my chest to his, and on some other night I might have felt a type of excitement or wondered if he were feeling it too; tonight was evidently not like most nights. 
 
 “Do ya wanna go?” His thumb pointed towards a gap in the crowd, showing a clear view of the glass door, and through it streetlights—brighter now—and an empty snow-cloaked street. 
 
-I shook my head. *No. *I didn’t even think about what he meant or where we would go, as if some bodily instinct gave me the answer.  
+I shook my head. *No.* I didn’t even think about what he meant or where we would go, as if some bodily instinct gave me the answer.  
 
 “Ya can’t stay in ‘ere forever.” I felt his hand on my back, and it did not this time drop to his side. I neither felt threatened nor flushed, only comforted by his touch. 
 
@@ -195,7 +195,7 @@ I gripped his hand with more force and knew my face had become redder. I felt hi
 
 “What yer tryna get.” 
 
-Something gave way, and what was left of me drizzled down my cheeks. “I’m trying to give *you*—” I looked down at my shirt, “—if you’d just—*let me!*” My attempt at some raise of my voice was a far cry from commanding, resulting in a cocktail of voice cracks and vocal quivers. I brought his hands to my hips and to my blouse. When I met his gaze and he wasn’t looking at me, instead past me. His face was becoming full of wrinkles that I tried to ignore until now. This made me desperate to have him *see *me—to know that when he saw me it affected him. Without thinking I began to unbutton my shirt.  
+Something gave way, and what was left of me drizzled down my cheeks. “I’m trying to give *you*—” I looked down at my shirt, “—if you’d just—*let me!*” My attempt at some raise of my voice was a far cry from commanding, resulting in a cocktail of voice cracks and vocal quivers. I brought his hands to my hips and to my blouse. When I met his gaze and he wasn’t looking at me, instead past me. His face was becoming full of wrinkles that I tried to ignore until now. This made me desperate to have him *see* me—to know that when he saw me it affected him. Without thinking I began to unbutton my shirt.  
 
 “Ya don’t need’a do that.” He turned his head away. 
 
@@ -219,6 +219,6 @@ The bitter wind pinched my cheeks and flowed through my blouse. I buttoned up th
 
 “Oh I’m—wow, aren’t you cold?” Two large, bright eyes were waiting for me when I took mine off my blouse. She had a warmth and life in the way her features worked together that made me completely forget my frozen disposition. I smiled, face still puffy from tears spent and ice already replacing the streaks down my cheeks and nose. 
 
-*My coat. *I took a breath in. “I left something in there; I need to just—” I stuck my hand out and hurriedly shuffled back to the door. When I stepped back in, the bar had only a few older patrons, hunched along the counter. I spotted my coat on the chair next to the bar and nodded to a different bartender than the one from earlier. I looked back to where I last spotted the old man, seeing nothing but an empty floor and a grandfather clock against the wall. In dark brown wood there were carved finials and columns alongside masterful fretwork, the hands hovering near one. I stepped forward to see the clock in a clearer light, to see it under the warm glow of a lamp—dusty and cracked and filled with various dark spots on its bulb—to see the hands tick with the sound that seemed to echo from some other place, to see *something *that could give me what I had been needing all night, to see the color on its face, to see the color—
+*My coat.* I took a breath in. “I left something in there; I need to just—” I stuck my hand out and hurriedly shuffled back to the door. When I stepped back in, the bar had only a few older patrons, hunched along the counter. I spotted my coat on the chair next to the bar and nodded to a different bartender than the one from earlier. I looked back to where I last spotted the old man, seeing nothing but an empty floor and a grandfather clock against the wall. In dark brown wood there were carved finials and columns alongside masterful fretwork, the hands hovering near one. I stepped forward to see the clock in a clearer light, to see it under the warm glow of a lamp—dusty and cracked and filled with various dark spots on its bulb—to see the hands tick with the sound that seemed to echo from some other place, to see *something* that could give me what I had been needing all night, to see the color on its face, to see the color—
 
 Green. 
