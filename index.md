@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: home
 ---
 
 as my lovely grandmother always says--enjoy
