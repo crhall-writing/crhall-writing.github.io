@@ -24,7 +24,7 @@ who cares if your stomach
 wants to jump out of its core  
 
 you’ve got to keep moving  
-but Ill lose my insides at once  
+but I'll lose my insides at once  
 go to the bathroom, quick  
 I’ll meet you out there when you’re done  
 
