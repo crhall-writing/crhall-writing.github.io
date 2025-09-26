@@ -15,7 +15,7 @@ so back down I laid
 
 “the hell you mean a breach?”  
 “why weren’t we told”  
-“we sent a code beta to you each”  
+“we sent a code delta to you each”  
 “no one’s been told about that code”   
 
 it was go time  
