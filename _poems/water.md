@@ -38,7 +38,7 @@ now glass under streaks
 oil-sheened, soft dreams  
 even when he's pulled beneath  
 and the siren he sees  
-he gasps more than he breathesw  
+he gasps more than he breathes  
 in blending swirl of storm and gleam  
 whisked ashore on sand-brushed beach  
 to lie ever painted in eternal sleep  
