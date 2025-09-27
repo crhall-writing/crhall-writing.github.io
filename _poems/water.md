@@ -25,7 +25,7 @@ to drink up the ocean through a straw
 
 go to the drawing table  
 sit across from these lot  
-Petrov, Pal, Podpomogrov  
+Petrov, Pal, Podpomogov  
 what would they say to you?  
 they know how to combine  
 everything you've ever tried  
