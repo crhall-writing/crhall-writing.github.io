@@ -53,7 +53,7 @@ and the figures rust to stonewall
 she returns in technicolored shawl  
 whittled tulips shall always sprawl  
 
-then transluscent veil contrasts  
+then translucent veil contrasts  
 the veil, the veil, oh, at long last  
 a never-before-viewed style masterclass  
 and the soft glow of light, shadows downcast  
