@@ -44,7 +44,7 @@ whisked to shore on sand-brushed beach
 to bathe in glossy sun and ceaseless sleep  
 
 but savior of Holland and all  
-nuts and bolts marching tall  
+nuts and bolts march tall  
 to the dark night he called  
 but she was taken by screwballs  
 and he prayed to crumbling walls  
