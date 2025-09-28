@@ -5,7 +5,7 @@ layout: poem
 ---
 water--most difficult to draw  
 even harder to animate  
-liquid, solid, or gaseous  
+liquid, solid, evaporates  
 always shifting, always  
 seeping through the gates  
 
@@ -20,35 +20,35 @@ reminds you what you are
 
 you can seek to strike it, sure  
 you'll glide straight through  
-you must stop trying, bourgeois  
-to drink up the ocean through a straw  
+stop trying, bourgeois  
+to drink the ocean through a straw  
 
 go to the drawing table  
-sit across from these lot  
+sit across these lot  
 Petrov, Pal, Podpomogov  
-what would they say to you?  
-they know how to combine  
-everything you've ever tried  
+what would they opine?  
+they combine  
+all forms you've tried  
 they paint songs  
 sing textures  
 they'd tell you to absorb  
-the essence of all  
+the essence of worlds  
 
 now glass under streaks  
 oil-sheened, soft dreams  
 even when he's pulled beneath  
-and the siren he sees  
-he gasps more than he breathes  
-in blending swirl of storm and gleam  
-whisked ashore on sand-brushed beach  
-to lie ever painted in eternal sleep  
+by the siren he sees  
+he gasps more than breathes  
+in a blended swirl of storm and gleam  
+whisked to shore on sand-brushed beach  
+to bathe in glossy sun and ceaseless sleep  
 
 but savior of Holland and all  
 nuts and bolts marching tall  
-and to the dark night he called  
-but she was taken by the screwballs  
+to the dark night he called  
+but she was taken by screwballs  
 and he prayed to crumbling walls  
-drops of gems now glisten and fall  
+drops of gems now glisten, fall  
 and the figures rust to stonewall  
 she returns in technicolored shawl  
 whittled tulips shall always sprawl  
@@ -56,10 +56,10 @@ whittled tulips shall always sprawl
 then translucent veil contrasts  
 the veil, the veil, oh, at long last  
 a never-before-viewed style masterclass  
-and the soft glow of light, shadows downcast  
-take all the attention from the film artifacts    
+and the soft glowing light, shadows cast  
+eminate through the film's artifacts    
 and from the castle that night she passed  
-down steps, now with feet of burnished brass  
+down steps, feet turned to burnished brass  
 her tears showed a world of frosted glass  
 they distorted and swayed every landmass   
 and she became planted, herself a clast  
