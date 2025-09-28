@@ -10,7 +10,7 @@ always shifting, always
 seeping through the gates  
 
 sometimes it glows  
-sometimes it subdues  
+sometimes subdues  
 sometimes it layers and cloaks  
 sometimes it looms  
 sometimes it rushes, crashes, overwhelms  
