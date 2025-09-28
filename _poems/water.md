@@ -50,7 +50,7 @@ but she was taken by screwballs
 and he prayed to crumbling walls  
 drops of gems now glisten, fall  
 and the figures rust to stonewall  
-she returns in technicolored shawl  
+she's back in technicolored shawl  
 whittled tulips shall always sprawl  
 
 then translucent veil contrasts  
