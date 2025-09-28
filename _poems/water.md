@@ -41,7 +41,7 @@ by the siren he sees
 he gasps more than breathes  
 in a blended swirl of storm and gleam  
 whisked to shore on sand-brushed beach  
-to bathe in glossy sun and ceaseless sleep  
+to bathe by glossy sun in ceaseless sleep  
 
 but savior of Holland and all  
 nuts and bolts march tall  
