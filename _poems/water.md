@@ -3,8 +3,8 @@ title: water
 date: 2025-09-27
 layout: poem
 ---
-water--most difficult to draw  
-even harder to animate  
+water is most difficult to draw  
+even harder yet to animate  
 liquid, solid, evaporates  
 always shifting, always  
 seeping through the gates  
