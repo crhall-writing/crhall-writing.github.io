@@ -5,8 +5,8 @@ layout: poem
 ---
 they both sat and stared  
 in silence with wide eyes  
-an there sat the pair  
-and guessed the other's mind  
+and there sat the pair  
+guessing the other's mind  
 
 inside, "what to do for him?"  
 "what can she do for me?"  
