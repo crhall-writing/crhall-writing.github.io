@@ -95,8 +95,8 @@ isn’t an argument to keep going
 you can’t convince me that  
 me acting poorly means now  
 that you never did  
-and that we would  
-live happily ever after   
+and that we would live   
+happily ever after   
 that universe isn’t real  
 there’s no alternate reality  
 where you acted well  
