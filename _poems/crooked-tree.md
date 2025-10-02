@@ -8,13 +8,13 @@ tears on tears--each one
 underlining all I don’t know  
 and should’ve learned so long ago  
 
-I walk these paths and stand  
+I walk this path and land  
 under trees I understand  
 “why won’t they ever know me?”  
 but truth is--I’m the crooked tree  
 
 I’ve grown through barriers  
-like snouts on bull terriers  
+like pugs and bull terriers  
 against all odds I grew  
 but not enough for you  
 
