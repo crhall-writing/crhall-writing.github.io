@@ -25,5 +25,5 @@ did you forget the wheel to steer?
 
 but the trees stare back  
 I pull straps, tighten my pack  
-oh man, here they come  
+oh, man, here they come  
 but daylight breaks--I must move on  
