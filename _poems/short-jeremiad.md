@@ -21,7 +21,7 @@ because it may make you vulnerable for once
 and being vulnerable is a scary thing  
 that most are forced into experiencing  
 but you’ll never have to do this  
-in a tall and grey, stoney tower  
+in a tall and grey stony tower  
 
 but you’ll soon find out   
 your lack of sincerity  
