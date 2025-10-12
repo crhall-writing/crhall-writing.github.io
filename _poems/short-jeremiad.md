@@ -46,7 +46,7 @@ of entering the vulnerable, the unknown.
 and what a shame you stay the same  
 you claim to have all the knowledge, the whole shebang;  
 but you prefer to quiver and remain  
-in a dark-lit bedroom with insults.  
+in a dark-lit bedroom, and to derogate.  
 
 how does it feel  
 to waste your humanity?  
