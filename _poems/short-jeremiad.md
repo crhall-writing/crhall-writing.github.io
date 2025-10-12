@@ -44,7 +44,7 @@ you guys are still here, scared--
 of entering the vulnerable, the unknown.  
 
 and what a shame you stay the same  
-you claim to have all the knowledge of the day  
+you claim to have all the knowledge, the whole shebang;  
 but you prefer to quiver and remain  
 in a dark-lit bedroom with insults.  
 
