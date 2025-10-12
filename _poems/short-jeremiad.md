@@ -8,7 +8,7 @@ not in the mud and the dirt
 scared to get your finger nails dirty?  
 scared to sift through the dirt of understanding?  
 
-since 1999 70% of the violence  
+since 1999 70% of violence  
 we experience is by white men  
 and a large part of that  
 is by men of a young age  
