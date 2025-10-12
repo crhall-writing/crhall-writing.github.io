@@ -3,50 +3,50 @@ title: short jeremiad
 date: 2025-10-11
 layout: poem
 ---
-how does it feel to be on the sidelines
-not in the mud and the dirt
-scared to get your finger nails dirty? 
-scared to sift through the dirt of understanding? 
+how does it feel to be on the sidelines  
+not in the mud and the dirt  
+scared to get your finger nails dirty?  
+scared to sift through the dirt of understanding?  
 
-since 1999 70% of the violence
-we experience is by white men
-and a large part of that
-is by men of a young age
+since 1999 70% of the violence  
+we experience is by white men  
+and a large part of that  
+is by men of a young age  
 
-you’re scared to enter the melting pot
-and face what makes you uncomfortable
-you’re scared of abandoning cynicism
-because it may make you vulnerable for once
+you’re scared to enter the melting pot  
+and face what makes you uncomfortable  
+you’re scared of abandoning cynicism  
+because it may make you vulnerable for once  
 
-and being vulnerable is a scary thing
-that most are forced into experiencing
-but you’ll never have to do this
-in a tall and grey, stoney tower
+and being vulnerable is a scary thing  
+that most are forced into experiencing  
+but you’ll never have to do this  
+in a tall and grey, stoney tower  
 
-but you’ll soon find out 
-your lack of sincerity
-holding onto egos so grand
-will take its toll on you
+but you’ll soon find out   
+your lack of sincerity  
+holding onto egos so grand  
+will take its toll on you  
 
-that toll will lead to some question
-of what makes this life worth it
-do you not understand? 
-if you want to stay safe express yourself
+that toll will lead to some question  
+of what makes this life worth it  
+do you not understand?   
+if you want to stay safe express yourself  
 
-become a “yes-man” 
-who has the confidence
-to try something new
-to try to understand things foreign to you
+become a “yes-man”  
+who has the confidence  
+to try something new  
+to try to understand things foreign to you  
 
-you know, I was born in 1999
-and the game hasn’t changed to this day
-you guys are still here scared
-of entering the vulnerable, the unknown
+you know, I was born in 1999  
+and the game hasn’t changed to this day  
+you guys are still here scared  
+of entering the vulnerable, the unknown  
 
-and what a shame you stay the same
-you claim to have all the knowledge of the day
-but you prefer to quiver and remain
-in a dark-lit bedroom with insults
+and what a shame you stay the same  
+you claim to have all the knowledge of the day  
+but you prefer to quiver and remain  
+in a dark-lit bedroom with insults  
 
-how does it feel 
-to waist your humanity? 
+how does it feel  
+to waist your humanity?  
