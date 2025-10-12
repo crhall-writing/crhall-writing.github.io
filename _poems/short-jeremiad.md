@@ -4,7 +4,7 @@ date: 2025-10-11
 layout: poem
 ---
 how does it feel to be on the sidelines,  
-not in the mud and the dirt,  
+not in the mud and dirt,  
 scared to get your fingernails dirty?  
 scared to sift through the dirt of understanding?  
 
@@ -26,27 +26,27 @@ in a tall and grey stony tower.
 but you’ll soon find out:   
 your lack of sincerity,  
 holding onto egos so grand,  
-can and will take its toll on you.  
+can and will take its toll.  
 
-that toll will lead to some questions--  
-of what makes this life worth it.  
+that will lead to some questions--  
+of what makes life worth it.  
 do you not understand?   
 if you want to stay safe, express yourself.  
 
 become a *“yes-man”*  
-with the confidence  
+with confidence  
 to try something new,  
 to try to understand things foreign to you.  
 
 you know, I was born in 1999,  
 and the game hasn’t changed to this day.  
-you guys are still here, scared--  
+you guys are still scared--  
 of entering the vulnerable, the unknown.  
 
 and what a shame you stay the same.  
-you claim to have all knowledge, the whole shebang;  
-but you prefer to quiver and remain  
-in a dark-lit bedroom, and to derogate.  
+you claim to have knowledge, the whole shebang;  
+but you prefer to quiver, remain  
+in a dark-lit bedroom, to derogate.  
 
 how does it feel  
 to waste your humanity?  
