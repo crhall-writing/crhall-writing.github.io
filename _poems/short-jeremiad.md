@@ -49,4 +49,4 @@ but you prefer to quiver and remain
 in a dark-lit bedroom with insults  
 
 how does it feel  
-to waist your humanity?  
+to waste your humanity?  
