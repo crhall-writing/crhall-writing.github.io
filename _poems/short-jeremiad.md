@@ -1,5 +1,5 @@
 ---
-title: jeremiad
+title: short jeremiad
 date: 2025-10-11
 layout: poem
 ---
