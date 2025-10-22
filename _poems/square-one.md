@@ -42,7 +42,7 @@ a place where everything is brand new
 things here are getting stale for me  
 I can feel it in my bones, in my liver  
 life itself has grown mould and spores  
-that will spread and intoxicate everything  
+that will spread and intoxicate and splinter    
 
 so I know I’ve gotta get out and start anew  
 we all do, don’t we not?  
