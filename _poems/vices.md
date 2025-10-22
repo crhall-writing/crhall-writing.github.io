@@ -17,7 +17,7 @@ over sounds of brand new fights
 why is it now, we get along so well  
 like two deflated balloons    
 each of us holding our favorite vice  
-Wine in one and joint in other  
+wine in one and joint in other  
 
 a few weeks ago we agreed   
 we’d quit what tears us apart  
