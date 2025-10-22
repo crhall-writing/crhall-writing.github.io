@@ -51,5 +51,5 @@ I’m so enthusiastic about
 
 and even though I know so many  
 will be angry at my decisions  
-I can’t help but smile, smile at the courage  
-I think is built inside of me  
+I can’t help but smile--smile at the courage  
+that must've been here since square one
