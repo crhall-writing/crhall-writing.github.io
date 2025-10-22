@@ -27,7 +27,7 @@ than I ever did before
 but I want to feel all the same  
 I know things exist now that I never did  
 there’s a new depth to the world   
-that I could’ve never even imagined  
+that I never could've imagined  
 
 but I am the same person as before  
 I like all the same little things, y’know  
