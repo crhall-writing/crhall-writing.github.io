@@ -4,7 +4,7 @@ date: 2025-10-02
 layout: poem
 ---
 
-white clouds stirred  
+white clouds stir  
 contrasted against the black  
 the warm against the cold  
 and just like that, it unfolds  
