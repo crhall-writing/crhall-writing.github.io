@@ -4,7 +4,8 @@ date: 10-23-2025
 layout: poem
 ---
 
-hi  
+I
+am 
 here  
 I’m sitting  
 and thinking  
