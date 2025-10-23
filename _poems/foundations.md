@@ -1,6 +1,6 @@
 ---
 title: foundations
-date: 10-23-2025
+date: 2025-10-23
 layout: poem
 ---
 
