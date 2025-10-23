@@ -4,9 +4,9 @@ date: 10-23-2025
 layout: poem
 ---
 
-I
-am 
-here  
+I  
+am   
+here    
 I’m sitting  
 and thinking  
 why is holding on   
