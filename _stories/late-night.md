@@ -23,7 +23,7 @@ He's already pushed it to the side. *Duh*. With tightened lips you look back to 
 
 You look up at him once more, and he’s made no attempt at busying himself or pretending at that. A nod must do, you tell yourself, and he’d be on his way.  
 
-“I don’t bite,” from your periphery you catch an impression of his hands resting on the surface, one hand laying over the other, flat. And moving ever so slightly to the right, you see a jewel pasted onto a silver ring, wrapped around the top hand’s index finger. The jewel was emerald, glistening, and as clearly fake as it was large. But that shade of green was the same as was the sea all those years past—and now your periphery is fuzzed while your ears buzz and you become green-faced in the same way as you were all those years past.  
+“I don’t bite,” from your periphery you catch an impression of his hands resting on the surface, one hand laying over the other, flat. And moving ever so slightly to the right, you see a jewel pasted onto a silver ring, wrapped around the top hand’s index finger. The jewel is emerald, glistening, and as clearly fake as it is large. But that shade of green is the same as was the sea all those years past—and now your periphery is fuzzed while your ears buzz and you become green-faced in the same way as you were all those years past.  
 
 And if you’d just tilt your head a bit, you’d see the lot just beyond the windows is now an ocean, and you’re just drifting on it—getting sick—in your seat. The lighthouse out there glows and the halo is now staring you down.  
 
