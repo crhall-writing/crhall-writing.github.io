@@ -47,12 +47,3 @@ You now notice the way your index finger rubs back and forth on your thumb in yo
 He shakes his head, and a chunk of black hair gets caught on a dark, thick eyebrow. “Then what’d you have in there?” You hear an interjection of a Woo! from Little Richard and your attention drifts there, until you hear a clink. The emerald ring just tapped your empty mug. “Herbal tea, eh?”  
 
 As the corners of this mouth raise yours fall—blink. Blink. Blink. And as your eyes narrow his brow raises in some type of challenge. 
- 
-
-
-
- 
-
-
- 
-<img width="468" height="634" alt="image" src="https://github.com/user-attachments/assets/e2e1fdc6-fbed-4345-9d60-05988b383454" />
