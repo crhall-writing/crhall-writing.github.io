@@ -33,7 +33,7 @@ And if you’d just tilt your head a bit, you’d see the lot just beyond the wi
 
 “I don’t know—I’m really—” Careful now. Don’t let your insides go. “—I’m really tired.”  
 
-“I am too.” His pupils are growing into two massive storm clouds—black against the grey of his irises. The black outside the window is even blacker atop a storming sea waiting to drag both of us down into a never-ending abyss.  
+“I am too.” His pupils are growing into two massive storm clouds—black against the grey of his irises. The black outside the window is even blacker atop a storming sea waiting to drag both of you down into a never-ending abyss.  
 
 You let out another involuntary exhale, and you’re irritated—so fucking irritated—“What are you doing here then?”  
 
