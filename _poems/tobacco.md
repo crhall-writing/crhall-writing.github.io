@@ -20,5 +20,5 @@ maybe it’s the way I act
 
 God, why are they smoking  
 what the hell kind of decorum   
-exists in memory  
+exists ad memoriam 
 while I’m sitting here choking  
