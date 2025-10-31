@@ -4,10 +4,10 @@ date: 2025-10-31
 layout: poem
 ---
 
-it was snowing last Halloween
-the nurses in the hallway careened
-about the Halloween of ’91
-the great blizzard still getting buzz
+it was snowing last Halloween  
+the nurses in the hallway careened  
+about the Halloween of ’91  
+the great blizzard still getting buzz  
 
 and here I am again now  
 the exception to visiting hours  
