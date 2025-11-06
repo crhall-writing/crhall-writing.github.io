@@ -38,7 +38,7 @@ with
 a new purpose in life  
 that  
 you forget about the next day  
-or 
+or  
 even when you’re getting worse  
 still  
 you are trying to get better  
