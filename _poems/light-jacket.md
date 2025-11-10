@@ -19,6 +19,6 @@ it takes great deals of courage and grit
 to stop holding your world and let it spin  
 
 and I an saw acceptance I’d never seen  
-when I told her I’d be leaving next year 
+when I told her I’d be leaving next year  
 she said she could come visit the mountains  
 the first time she’d planned a world without him  
