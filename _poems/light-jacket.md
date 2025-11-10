@@ -15,7 +15,7 @@ you don’t want to let go, even when it’s time
 
 you know they’ll rip the sky in two  
 before admitting it’s finally through  
-it takes great deals of courage and grit  
+it takes a great deal of courage and grit  
 to stop holding your world and let it spin  
 
 and I saw an acceptance I’d never seen  
