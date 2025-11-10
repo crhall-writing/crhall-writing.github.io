@@ -8,7 +8,7 @@ just-under-freezing night, I held hands
 in my dark green pockets, knowing  
 it’d be long before I saw their hue again  
 
-and the jacket I wore was light, the type  
+and the jacket I wore was light, the kind  
 that you wear when you can’t admit  
 summer’s gone, even when you love the cold  
 you don’t want to let go, even when it’s time  
