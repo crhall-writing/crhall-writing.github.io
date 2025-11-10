@@ -4,7 +4,7 @@ date: 2025-11-10
 layout: poem
 ---
 tiny snowflakes blipped against the dry  
-just-under-freezing nigh. I held hands   
+just-under-freezing night. I held hands   
 in my dark green pockets, knowing  
 it’d be long before I saw their hue again.  
 
