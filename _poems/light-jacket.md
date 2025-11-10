@@ -18,7 +18,7 @@ before admitting it’s finally through
 it takes great deals of courage and grit  
 to stop holding your world and let it spin  
 
-and I saw acceptance I’d never seen  
-when I told her one day I’d need to leave  
-she said she’d come see the mountains  
-the first time she’d talked of life going on  
+and I an saw acceptance I’d never seen  
+when I told her I’d be leaving next year 
+she said she could come visit the mountains  
+the first time she’d planned a world without him  
