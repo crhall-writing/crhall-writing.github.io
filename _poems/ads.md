@@ -5,4 +5,4 @@ layout: poem
 ---
 instagram has been  
 pushing to me tube-feeding  
-soul-source formula  
+sole-source formula  
