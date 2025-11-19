@@ -18,13 +18,13 @@ who are you to toe the line?
 you’ll only bring disappointment  
 by pretending there’s more to you  
 
-you see it in the hope in their eyes  
+you see the hope in their eyes  
 that you’ll provide some wisdom  
 something magical they’ve never known  
 and then the way their faces fall  
 
 the way you think it the rest of the day   
-and the weeks you’re lacking chemistry  
+and for the weeks you’re lacking chemistry  
 the rest of the week or of the month  
 and you know then it’ll never change  
 
