@@ -36,4 +36,4 @@ and you wish you were more than this
 enough for someone to step in  
 enough for someone to say “that’s enough”  
 but the less you have to give  
-the more they seem to want  
+the more they seem to want it  
