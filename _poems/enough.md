@@ -28,7 +28,7 @@ and for the weeks you’re lacking chemistry
 the rest of the week or of the month  
 and then you know it’ll never change  
 
-and you’ll be drowned in witnesses  
+and you’ll be drowned by witnesses  
 trying to give every bit of yourself  
 and you know it’ll never be enough  
 and you wish you were more than this  
