@@ -23,7 +23,7 @@ I am now become
 like an emptied drum  
 how could I go on for fifty years  
 
-I recall, waterey-eyed 
+I recall, waterey-eyed  
 I said I'm empty  
 I am so empty  
 "but I want more", he cried  
