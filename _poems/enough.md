@@ -1,6 +1,6 @@
 ---
 title: enough
-date: 2025-1119
+date: 2025-11-19
 layout: poem
 ---
 ambiguous is the loss  
