@@ -6,7 +6,7 @@ layout: poem
 ambiguous is the loss  
 of a life you never knew  
 the loss of serotonin  
-the loss of tomorrow  
+and the loss of tomorrow  
 
 and that loss comes far before  
 the physical that shifts no more  
