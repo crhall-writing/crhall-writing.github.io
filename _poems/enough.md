@@ -23,7 +23,7 @@ that you’ll provide some wisdom
 something magical they’ve never known  
 and then the way their faces fall  
 
-the way you think it the rest of the day   
+the way you think on it the rest of the day   
 and for the weeks you’re lacking chemistry  
 the rest of the week or of the month  
 and you know then it’ll never change  
