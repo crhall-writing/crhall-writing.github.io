@@ -26,7 +26,7 @@ and then the way their faces fall
 the way you think on it the rest of the day   
 and for the weeks you’re lacking chemistry  
 the rest of the week or of the month  
-and you know then it’ll never change  
+and then you know it’ll never change  
 
 either you’ll be drowned with witnesses  
 trying to give every bit of yourself  
