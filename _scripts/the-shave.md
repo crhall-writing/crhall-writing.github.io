@@ -4,14 +4,15 @@ date: 2025-08-31
 layout: script
 ---
 
-<iframe
-  src="/assets/pdfs/the-shave.pdf"
-  width="100%"
-  height="800px"
-  style="border:none;">
-</iframe>
-
-<p style="text-align:center; font-style:italic;">
-  If the PDF doesn't load,
-  <a href="/assets/pdfs/the-shave.pdf">click here to view it directly</a>.
-</p>
+<div class="pdf-container">
+  <object
+    data="/assets/pdfs/the-shave.pdf"
+    type="application/pdf"
+    width="100%"
+    height="800">
+    <p>
+      Your browser can’t display this PDF inline.
+      <a href="/assets/pdfs/the-shave.pdf">Click here to view or download it.</a>
+    </p>
+  </object>
+</div>
