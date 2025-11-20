@@ -5,7 +5,7 @@ layout: script
 ---
 
 <iframe
-  src="{{ '/assets/pdfs/the-shave.pdf' | relative_url }}"
+  src="{{ '../assets/pdfs/the-shave.pdf' | relative_url }}"
   width="100%"
   height="800px"
   style="border:none;">
