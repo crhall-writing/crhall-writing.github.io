@@ -1,6 +1,6 @@
 ---
 title: "The Shave"
-date: 2025-08-31 
+date: 2025-08-31
 layout: script
 ---
 
@@ -10,3 +10,8 @@ layout: script
   height="800px"
   style="border:none;">
 </iframe>
+
+<p style="text-align:center; font-style:italic;">
+  If the PDF doesn't load,
+  <a href="/assets/pdfs/the-shave.pdf">click here to view it directly</a>.
+</p>
