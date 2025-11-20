@@ -1,5 +1,6 @@
 ---
 title: "The Shave"
+date: 2025-08-31 
 layout: script
 ---
 
