@@ -15,5 +15,5 @@ all of the wrongs, all the long
 
 while, continuing the wrongs  
 spreading them until they’re  
-translucent, here, stretch them  
+translucent--here, stretch them  
 like dough to check the proof  
