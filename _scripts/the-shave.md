@@ -5,7 +5,7 @@ layout: script
 ---
 
 <iframe
-  src="{{ '../assets/pdfs/the-shave.pdf' | relative_url }}"
+  src="{{ '/pdfs/the-shave.pdf' | relative_url }}"
   width="100%"
   height="800px"
   style="border:none;">
@@ -13,5 +13,5 @@ layout: script
 
 <p style="text-align:center; font-style:italic;">
   If the PDF doesn't load,
-  <a href="{{ '/assets/pdfs/the-shave.pdf' | relative_url }}">click here to view it directly</a>.
+  <a href="{{ '/pdfs/the-shave.pdf' | relative_url }}">click here to view it directly</a>.
 </p>
