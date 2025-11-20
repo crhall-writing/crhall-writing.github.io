@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Scripts
+title: scripts
 permalink: /scripts/
 ---
 
