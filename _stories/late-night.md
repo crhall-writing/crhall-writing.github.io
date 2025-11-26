@@ -40,6 +40,7 @@ You let out another involuntary exhale, and you’re irritated—so fucking irri
 “I’d ask you the same question.”  
 
 Beat. Beat. Beat. And you’re sucked back into the grounded nature of the diner—the seasickness gone, you once again feel the pulse of the newest song flooding between the booths.   
+
 “You have nowhere else to go—” he takes the liberty of using his bejeweled hand to push your closed laptop off to the side. “I know you don’t.”  
 
 Ripples form behind this man—the reflections in the windows behind him flow to and fro and you feel your lids retract allowing your eyes to bulge towards the storm. The heaving of your chest must’ve become outwardly visible as his eyes lower to it.  
