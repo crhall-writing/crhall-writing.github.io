@@ -29,6 +29,7 @@ she still makes me part of her world
 
 lets me listen to her problems  
 and give the advice I love to give  
+or edit personal statements  
 never fearing I can’t handle it.   
 
 it takes a real girls' girl  
