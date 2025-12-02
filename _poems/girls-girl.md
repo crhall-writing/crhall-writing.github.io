@@ -31,7 +31,7 @@ lets me listen to her problems
 and give the advice I love to give  
 never fearing I can’t handle it.   
 
-it takes a real girls girl  
+it takes a real girls' girl  
 to take care of you  
 while making you feel  
 that you’re taking care of her  
