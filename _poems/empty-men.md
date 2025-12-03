@@ -1,6 +1,6 @@
 ---
 title: "empty men (1&2)"
-date: 2025-12-05
+date: 2025-12-03
 layout: poem
 ---
 (1)  
