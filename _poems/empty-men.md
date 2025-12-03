@@ -39,6 +39,7 @@ to form so empty a man
 
 (2)  
 empty men  
-I imagine see the reader   
+I imagine  
+see the reader   
 as the proper carrier  
 of the emotional burden of literature  
