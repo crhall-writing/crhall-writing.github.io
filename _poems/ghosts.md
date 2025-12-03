@@ -20,4 +20,4 @@ every color, every sound,
 every dream once dreamt.   
 one day, when I’m no longer  
 some imposter, maybe then  
-I’ll feel something other than dread  
+I’ll feel something more than dread  
