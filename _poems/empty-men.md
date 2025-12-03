@@ -3,7 +3,6 @@ title: empty men (1&2)
 date: 2025-12-05
 layout: poem
 ---
-
 (1)  
 empty man   
 you’ve met him once before  
