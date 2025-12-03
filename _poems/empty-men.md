@@ -1,5 +1,5 @@
 ---
-title: empty men (1&2)
+title: empty men (1 and 2)
 date: 2025-12-05
 layout: poem
 ---
