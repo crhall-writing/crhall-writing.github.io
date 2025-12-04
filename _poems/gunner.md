@@ -25,5 +25,5 @@ makes you some kind of gunner
 
 to me,    
 you're not clever enough   
-to do the most basic feats  
+to do the most basic of feats  
 the bare, *barest* of minimums  
