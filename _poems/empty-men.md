@@ -12,7 +12,7 @@ empathy and compassion
 there’s a reason she  
 doesn’t understand the references  
 she cared not to read a single one  
-I, like a fool, had read all of them 
+I, like a fool, had read all of them   
 times enough to try connecting dots  
 attach timelines, but all for naught  
 each instance I brought one up  
