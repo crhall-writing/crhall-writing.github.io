@@ -10,6 +10,7 @@ women shouldn’t expect
 
 she’s done every dish  
 every inch of laundry  
+cleaned every surface  
 perfected your quandaries  
 
 like the knots she ties  
