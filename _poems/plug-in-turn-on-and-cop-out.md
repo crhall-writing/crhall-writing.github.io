@@ -43,5 +43,5 @@ minds are collapsing
 and there’s so much we can do to make it stop  
 
 “that’s no matter.  
-do you know how long its been  
+do you know how long it's been  
 since a woman’s last finished me off?”  
