@@ -14,4 +14,4 @@ a dimostrare qualcosa di importante:
 viaggiare e vivere di più  
 per il mondo  
 per gli dei  
-dei che non so se siano reali  
+dei che non credo siano reali  
