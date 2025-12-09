@@ -15,7 +15,7 @@ and if you act none the wiser, oh, what a sin
 
 for we expect that the lacking frontal cortices  
 from the men who surround you, your brothers  
-cousins, roommates, classmates, coworkers
+cousins, roommates, classmates, coworkers  
 they need time to compensate lack of wisdom  
 
 but don’t you dare have a lapse in charisma  
