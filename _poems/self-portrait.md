@@ -4,7 +4,7 @@ date: 2025-12-08
 layout: poem
 ---
 bloodshot eyes against ice  
-blue as oceans above indents  
+blue as oceans, above indents  
 showing lack of sleep, or maybe  
 just so much carried over years  
 
