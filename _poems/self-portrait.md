@@ -13,7 +13,7 @@ for the next twenty something stepping in
 but so much more you can handle, apparently  
 and if you act none the wiser, oh, what a sin  
 
-for we expect that lacking of frontal cortex  
+for we expect that the lacking frontal cortices  
 from the men who surround you, your brothers  
 cousins, roommates, coworkers, classmates  
 they need time to compensate lack of wisdom  
@@ -25,6 +25,6 @@ you know then you’ve failed on all planes
 
 you must be better than a man  
 you must never stoop so low as him  
-he is allowed to express the most barest of stupidity  
+he is allowed to express the most bare of stupidity  
 but I swear to God, if you let me witness such offense  
 
