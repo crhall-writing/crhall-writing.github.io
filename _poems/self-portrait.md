@@ -26,5 +26,5 @@ you know then you’ve failed on all planes
 you must be better than a man  
 you must never stoop so low as him  
 he is allowed to express the most barest of stupidity  
-but I swear to God, if you let me witness such an offense  
+but I swear to God, if you let me witness such offense  
 
