@@ -16,7 +16,7 @@ am I an enabler, tugging them on?
 if I'd abandoned ship long ago  
 would the passengers have perished  
 or would they have escaped in time  
-before the oil fire swallowd them?   
+before the oil fire swallowed them?   
 
 and now so much to correct    
 to stop before it spreads     
