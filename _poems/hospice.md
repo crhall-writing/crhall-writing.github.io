@@ -21,4 +21,4 @@ before the oil fire swallowed them?
 and now so much to correct    
 to stop before it spreads     
 and all the others I've let  
-make do with the distractions
+make do with their distractions
