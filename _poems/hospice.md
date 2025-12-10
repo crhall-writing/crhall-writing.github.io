@@ -13,7 +13,7 @@ I keep finding myself in
 another ethical dilemma  
 am I an enabler, tugging them on?  
 
-if I'd abanoned ship long ago  
+if I'd abandoned ship long ago  
 would the passengers parished  
 or would they have escaped in time  
 before the oil fire swallowd them?   
