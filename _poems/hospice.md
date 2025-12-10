@@ -5,8 +5,8 @@ layout: poem
 ---
 we refuse to see, to look  
 at those details, big and small  
-that could derail the life built  
-whether the wood was solid or of rot  
+that could derail the life w built  
+whether the wood was solid or rot  
 
 I think a lot about this  
 I keep finding myself in   
