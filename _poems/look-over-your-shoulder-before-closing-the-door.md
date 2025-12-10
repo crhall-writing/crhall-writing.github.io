@@ -76,7 +76,7 @@ he needs to go build what you’ll never know
 
 you were so desperate to leave  
 and I so desperate for you to stay  
-I wished we could be forever within warm brick
+I wished we could be forever within warm brick  
 above the old and bustling restaurant  
 
 with your little retro fridge  
