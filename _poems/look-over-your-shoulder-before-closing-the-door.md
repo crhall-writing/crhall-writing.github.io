@@ -119,7 +119,7 @@ you loved it when I’d photograph you
 and I loved the way you loved it.  
 
 I loved drawing you, animating you, writing you,  
-and did you love the attention.  
+and, oh, did you love the attention.  
 I’d never met someone who modeled like you  
 and made me feel like a real artist.  
 
