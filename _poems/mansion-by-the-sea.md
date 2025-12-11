@@ -19,7 +19,7 @@ each and every time
 the tide returns to the sea  
 
 and whenever you might catch  
-glimpse of a dolphin passing   
+glimpses of a dolphin passing   
 beneath a wave  
 you wonder if it was even that  
 you listened to the stories she told  
