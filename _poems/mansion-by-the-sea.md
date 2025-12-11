@@ -15,8 +15,8 @@ when he ran Kodak
 and you smile, moving on  
 feeling the sand crabs  
 trying to reach the surface  
-each and every time  
-the tide returns to the sea  
+every time  
+the tide returns to sea  
 
 and whenever you might catch  
 glimpse of a dolphin passing   
