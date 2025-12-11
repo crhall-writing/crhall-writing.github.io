@@ -57,7 +57,7 @@ in a glove ridiculously thick;
 you said you couldn’t feel it anyway.  
 
 you fell on those icy streets  
-down Franklin avenue--  
+down Franklin Avenue--  
 they’re not good at salting there, I know--  
 your hand completely open, exposed,  
 
