@@ -10,8 +10,8 @@ so much more meaningful
 than when I had the real thing?    
 
 you reeled me in;     
-I remember being 21  
-gutted, on my knees  
+I remember being 21,  
+gutted, on my knees,  
 pretending you meant less to me.  
 
 like Marina and Ulay  
