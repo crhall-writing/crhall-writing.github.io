@@ -14,7 +14,7 @@ way back in the days
 when he ran Kodak  
 and you smile, moving on  
 feeling the sand crabs  
-reaching the bottoms of your feet  
+reach the bottoms of your feet  
 each and every time  
 the tide returns to the sea  
 
