@@ -39,6 +39,8 @@ oh, it could never be!
 you’d been there too long already;  
 you’d surely be there after the next one.    
 
+--  
+
 I remember the first day I saw you;  
 golden hair when all around was dead;  
 how cold I was and unprepared,  
