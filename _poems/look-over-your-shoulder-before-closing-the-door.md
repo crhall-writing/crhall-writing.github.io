@@ -70,7 +70,7 @@ clumsily working around your oversized glove
 clumsily walking through damp sand  
 
 the tides coming in, we better go  
-oh but can’t we stay longer  
+oh, but can’t we stay longer?  
 he’s got an empire to start  
 he needs to go build what you’ll never know  
 
@@ -98,7 +98,7 @@ how you’d stay up talking me through my fears
 
 I was just passing time  
 the memories of brick are just that  
-understand it was a handful of times  
+I understand it was a handful of times  
 you’ve built that house with another  
 
 half a decade spilled  
