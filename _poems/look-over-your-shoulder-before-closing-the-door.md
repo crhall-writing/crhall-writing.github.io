@@ -167,7 +167,7 @@ you have a PhD, after all.
 
 sometimes I wonder how you were  
 at my younger age.  
-though now I approach 29   
+though now I approach 29,   
 I still have some time.  
 
 did someone shatter you--   
