@@ -14,9 +14,9 @@ way back in the days
 when he ran Kodak  
 and you smile, moving on  
 feeling the sand crabs  
-trying to reach the surface  
-every time  
-the tide returns to sea  
+reaching the bottoms of your feet  
+each and every time  
+the tide returns to the sea  
 
 and whenever you might catch  
 glimpse of a dolphin passing   
