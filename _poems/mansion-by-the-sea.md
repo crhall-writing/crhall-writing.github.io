@@ -16,7 +16,7 @@ and you smile, moving on
 feeling the sand crabs  
 reach the bottoms of your feet  
 each and every time  
-the tide returns to the sea  
+the tide goes out to sea  
 
 and whenever you might catch  
 glimpses of a dolphin passing   
