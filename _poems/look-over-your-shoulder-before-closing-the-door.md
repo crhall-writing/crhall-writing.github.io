@@ -191,7 +191,7 @@ you talked like she meant nothing at all.
 I wonder what you tell her about me.  
 did you ever say I was special to you?    
 or did you draw me like an outline--  
-you got what you needed; lights out--let’s get to bed  
+you got what you needed; lights out--let’s get to bed.  
 
 
 
