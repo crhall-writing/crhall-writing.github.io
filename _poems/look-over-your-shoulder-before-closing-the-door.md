@@ -62,7 +62,7 @@ your hand completely open, exposed,
 you walked into that strip club--  
 the one I’ve seen before;  
 I'm sure that was the only time  
-they had seen a guy like you walk in.  
+they'd ever seen a guy like you walk in.  
 
 you can’t feel it anymore, you said.  
 I took it in mine anyway,  
@@ -85,9 +85,9 @@ your glasses just like mine,
 though yours you got in Lyon.  
 
 how did someone with so much--  
-a genius beyond anyones doubt--  
+a genius beyond anyone's doubt--  
 find me, decade juvenile  
-anything whom to give your eyes?  
+anything to whom you'd give your eyes?  
 
 like a father you guided  
 but I felt the path was my own;    
