@@ -5,4 +5,4 @@ layout: poem
 ---
 the ninth circle of hell  
 as far as I can tell  
-is working with scientist of high profile  
+is working with scientists of high profile  
