@@ -9,7 +9,7 @@ with no hard hat
 
 the cave will be there   
 if I leave for my equipment  
-I won’t go without it  
+I won’t go in without it  
 
 you can paint me as weak  
 you can paint me as rigid  
