@@ -14,7 +14,7 @@ is pretentious too much
 and they’re standing beside  
 the man with a large grin  
 punctuating through the spittle  
-about the ways you feel excited  
+about how the ways you feel excited  
 or silly or carefree or even haunted  
 are not on the list they’ve manufactured  
 the one that’s never communicated  
