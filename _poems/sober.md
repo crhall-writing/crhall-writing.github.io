@@ -9,7 +9,7 @@ anymore
 
 the pride you feel from using  
 the entitlement cloaked as uniqueness  
-the spitting down envisioned as  
+the spitting down projected as  
 protection from spitting up  
 
 eventually you find  
