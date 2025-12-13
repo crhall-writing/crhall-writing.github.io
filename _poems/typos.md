@@ -1,6 +1,6 @@
 ---
 title: typos
-dat: 2025-12-08
+date: 2025-12-08
 layout: poem
 ---
 I love those typos I make  
