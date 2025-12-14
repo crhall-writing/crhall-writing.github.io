@@ -26,4 +26,4 @@ and all of their friends and families
 because leaving after so many years  
 would be too inconvenient  
 if you can’t be honest  
-live in an honest way  
+live differently   
