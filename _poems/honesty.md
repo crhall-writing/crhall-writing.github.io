@@ -1,5 +1,5 @@
 ---
-tite: honesty
+title: honesty
 date: 2025-12-13
 layout: poem
 ---
