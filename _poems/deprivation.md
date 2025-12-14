@@ -9,7 +9,7 @@ or maybe too cheap, until they’re worn through
 and the sand scrapes at my calloused heels  
 
 and I smell the smells of life  
-the sweet corpses mixed with putrid salt  
+the sweet corpse mixed with putrid salt  
 and I want to be involved, to be as stained  
 as the crab carcass bobbing atop the waves  
 
