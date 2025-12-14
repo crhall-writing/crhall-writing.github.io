@@ -21,4 +21,4 @@ and she’s squinted her eyes too many times
 we’ll grow ripples in our faces, she says  
 and I nod along like this is our bond  
 the price of shared womanhood, wondering  
-how to best deprive ourselves to their gaze
+how to best deprive ourselves for their gaze
