@@ -19,7 +19,7 @@ or silly or carefree or even haunted
 are not on the list they’ve manufactured  
 the one that’s never communicated  
 outside the tiny circle bursting   
-like a beached whale, flumes escaping  
+like a beached whale, plumes escaping  
 being too close will leave you  
 nauseous if not infected   
 
