@@ -10,7 +10,7 @@ or another
 all of which  
 are just downright ridiculous  
 “you are my favorite child”  
-follows by immediate fury  
+followed by immediate fury  
 when I speak it to my brother  
 and now I’m an adult  
 trying to keep this researcher’s  
