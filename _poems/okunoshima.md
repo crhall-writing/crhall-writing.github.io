@@ -9,7 +9,7 @@ and every now and then an approaching vessel
 carrying people eager to be approached  
 to smile, to laugh, to throw their heads back  
 and absorb the moss, the trees, and the beaming sun  
-spilling over the sand through the day  
+spilling over the sand throughout the day  
 but when it retreats, behind the mountains facing east  
 the ruins don’t stay perfectly still  
 they vibrate with culpability   
