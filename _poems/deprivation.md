@@ -1,6 +1,6 @@
 ---
 title: deprivation
-dat: 2025-12-14
+date: 2025-12-14
 layout: poem
 ---
 the soles of my sandals are always black  
