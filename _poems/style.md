@@ -18,4 +18,4 @@ honestly doing their best to be honest
 you can’t mistake where they originate  
 and maybe the real hardship  
 was assigning ambiguous punishment  
-when the goal itself was fallacious  
+when the goal itself was erroneous  
