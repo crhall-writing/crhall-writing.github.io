@@ -26,9 +26,8 @@ that tiny little loft, neatly occupied
 by little knick-knacks and evidence  
 of all the short films where you act  
 and write, and to me
-there couldn’t be anything more impressive
-and I kissed you  
-long before I got to showering  
+there couldn’t be anything more impressive  
+and I kissed you, long before I got to showering  
 and somehow found a way  
 making various excuses for remote work  
 to stay with you five more days  
