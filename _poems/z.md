@@ -4,7 +4,7 @@ date: 2025-12-17
 layout: poem
 ---
 I laugh along with my friends  
-and we nod and act like I deserved better  
+and we nod and pretend that I deserved better  
 and I did, oh boy do I know I did  
 I deserved someone who wanted me  
 who would’ve taken me to the emergency room  
