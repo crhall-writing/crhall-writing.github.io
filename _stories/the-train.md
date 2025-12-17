@@ -3,7 +3,7 @@ title: the train
 date: 2025-12-16
 layout: story
 ---
-The horn whirred and the scene around Hannah grinded to a halt.   
+The horn whirred and the scene around Hannah ground to a halt.   
 
 “You have twenty-five minutes. And whatever you do, do *not* take any longer.” The conductor’s voice rang through the speakers. His voice sounded plain, monotone almost, like he had done this a hundred times.   
 
