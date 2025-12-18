@@ -16,7 +16,7 @@ the man with a large grin
 punctuating through the spittle  
 about how the ways you feel excited  
 or silly or carefree or even haunted  
-are not on the list they’ve manufactured  
+are not on the list they’ve concocted  
 the one that’s never communicated  
 outside the tiny circle bursting   
 like a beached whale, plumes escaping  
