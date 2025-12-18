@@ -14,7 +14,7 @@ after climbing Mt. Washington?
 and you said it’d be quick  
 we could just talk a little longer  
 you wanted to hear more  
-and I could never say no to you  
+and to you, I could never say no    
 it was obvious from the get-go  
 and I always laugh when I remember  
 I hadn’t had a shower in three days  
