@@ -12,7 +12,7 @@ and if any small thing goes awry
 you think you'd maybe die  
 until you stop seeing your disposition  
 and start looking at its shadow  
-the trees encase  
+the branches twist to encase  
 like ribs around a beating heart  
 there's nothing like the raw meat  
 the only one pumping blood  
