@@ -24,4 +24,4 @@ your breath gave your lungs no time to catch
 whether you know it or not  
 the white splatter  
 between your bumper and the infinity ahead  
-appointed your verdicts to a god’s  
+appointed your verdict to a god’s  
