@@ -14,5 +14,5 @@ until you stop seeing your disposition
 and start looking at its shadow  
 the branches twist to encase  
 like ribs around a beating heart  
-there's nothing like the raw meat  
+there's nothing like raw meat  
 the only one pumping blood  
