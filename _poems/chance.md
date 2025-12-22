@@ -14,7 +14,7 @@ and all you ought to be
 for hours we’d milk a dead horse  
 what magic lay in those chats  
 looking out into the marsh  
-the one that’s drying up  
+the one that’s been drying up  
 
 the surgeon never faced you  
 shame doesn’t need a visual  
