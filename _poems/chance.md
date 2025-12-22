@@ -9,7 +9,7 @@ the warm breeze can open your eyes
 
 but you’ll never feel that way again  
 chances can steal all you are  
-and all you thought you’d be  
+and all you ought to be  
 
 for hours we’d milk a dead horse  
 what magic lay in those chats  
