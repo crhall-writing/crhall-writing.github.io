@@ -24,7 +24,7 @@ gated reverb drops
 again, again  
 your head swings with it  
 not a single beautiful man or woman  
-can save you like this  
+can save you quite like this  
 
 it’s just you and the space between  
 humid air, cottonwood  
