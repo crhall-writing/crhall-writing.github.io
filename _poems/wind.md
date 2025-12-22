@@ -14,4 +14,4 @@ all's left to do is shrug and escape the gales.
 and the thwacks and flaps of tent fabric   
 deny a dreamless sleep.    
 I breathe in, my nostrils informing me  
-what we couldn't will's been done by wind.  
+what we couldn't will has been done by wind.  
