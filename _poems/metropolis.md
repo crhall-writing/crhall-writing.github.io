@@ -5,8 +5,8 @@ layout: poem
 ---
 you’d think it was a skyline  
 a forgotten city   
-forgot to turn off the electricity   
-orange orbs decorating tall pillars  
+that forgot to turn off the electricity   
+orange ornaments decorate tall pillars  
 and in your periphery they appear like pyres  
 turning one poison into a new poison  
 so long as they achieve a boiling point  
