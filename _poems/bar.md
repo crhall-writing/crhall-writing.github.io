@@ -25,5 +25,5 @@ but back when we ate breakfast before dawn
 you told me about the fans begging  
 for you to restart your music career  
 I knew as soon as you started it wasn't true  
-but it was clear then  
-we had more in common than you'd expect  
+but it was clear to me    
+we had more in common than you'd think  
