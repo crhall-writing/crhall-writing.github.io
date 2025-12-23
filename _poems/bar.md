@@ -7,14 +7,11 @@ if I'd never felt lonely
 I suppose I'd never have gone with you   
 
 to that bar underneath Santa Fe  
-and let you order for me  
-anything you felt was right  
-or that you think I'd like  
-
+and let you order for me    
 the most peated scotch  
 that'll ever assault my tongue  
 almost as striking  
-as your eyes lingering when I cough  
+as your eyes lingering when I coughed   
 
 you're the type of guy  
 that made me realize hours after dusk   
