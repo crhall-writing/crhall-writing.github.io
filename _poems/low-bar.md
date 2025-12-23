@@ -21,6 +21,6 @@ making the drive to leave you so difficult
 but back when we ate breakfast before dawn  
 you told me of fans begging  
 for you to renew a music career  
-I knew as soon as you started, it wasn't true  
+I knew, as soon as you started, it wasn't true  
 but it was clear to me    
 we had more in common than you'd think  
