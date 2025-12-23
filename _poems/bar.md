@@ -6,12 +6,12 @@ layout: poem
 if I'd never felt lonely  
 I suppose I'd never have gone with you   
 
-to that bar underneath Santa Fe  
-and let you order for me    
+to that bar beneath Santa Fe  
+let you order for me    
 the most peated scotch  
-that'll ever assault my tongue  
-almost as striking  
-as your eyes lingering when I coughed   
+to ever assault my tongue  
+smoke lingering  
+like your eyes when I coughed   
 
 you're the type of guy  
 that made me realize hours after dusk   
