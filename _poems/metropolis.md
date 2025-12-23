@@ -6,8 +6,8 @@ layout: poem
 you’d think it was a skyline  
 a forgotten city   
 forgot to turn off the electricity   
-orange orbs decorating the tall pillars  
-and in your periphery they appear as pyres  
+orange orbs decorating tall pillars  
+and in your periphery they appear like pyres  
 turning one poison into a new poison  
 so long as they achieve a boiling point  
 and you suppose the plumes rising above  
