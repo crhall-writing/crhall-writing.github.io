@@ -9,7 +9,7 @@ if you don’t keep it up, you’ll surely die
 in that plane crash in the Andes  
 survivors punched each other’s arms  
 to maintain circulation  
-when their clothes were totally frozen  
+when their clothes were frozen  
 
 there’s no running water in parts of Yakutia   
 you get not a single day off   
