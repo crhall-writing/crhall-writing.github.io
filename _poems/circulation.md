@@ -18,5 +18,5 @@ it’s a question of frostbite, not discomfort
 
 *oh—fuck.*   
 a plume of powder slams into the windshield  
-a truck is idle, hazards on  
-I turn the heat up, now to wait on a tow truck  
+a Chevy is idle, hazards on  
+I turn the heat up and wait on a tow truck  
