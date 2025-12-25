@@ -16,7 +16,7 @@ like your eyes when I coughed
 you're the type of guy  
 that made me realize hours after dusk   
 it's my sunglasses still on  
-making the drive to leave you so difficult  
+making the drive to leave so difficult  
 
 but back when we ate breakfast before dawn  
 you told me of fans begging  
