@@ -16,7 +16,7 @@ and when he told me,
 I played along   
 you’ll never see twenty-three  
 performing, just me   
-nervous that someone might find out  
+nervous now that someone might find out  
 
 when I first learned what couldn’t be was true  
 all I thought was, *I’m a better driver than you*    
