@@ -6,7 +6,7 @@ layout: poem
 *you blunder here—you’re part of the mountain*  
 if you don’t keep it up, you’ll surely die  
  
-after that plane crash in the Andes  
+after that crash in the Andes  
 survivors punched each other’s arms  
 to maintain circulation  
 when their clothes were frozen  
