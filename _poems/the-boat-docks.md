@@ -10,7 +10,7 @@ to the often warned-of boat docks
 
 the ones where I pray my car never breaks  
 or that I never slide down basin to lake  
-keep me betweeb life and death  
+keep me between life and death  
 my heart lowered with my breath  
 
 I can't remember life without them looming  
