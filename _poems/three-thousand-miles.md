@@ -8,7 +8,7 @@ the one you should’ve thrown away
 grinds into your veins   
 and the bass thumps so loud  
 you roll down the windows   
-to invite the night to rock along  
+and invite the night to rock along  
 
 asphalt stretches and thins  
 and runs wherever you let it  
@@ -29,6 +29,5 @@ can save you quite like this
 it’s just you and the space between  
 humid air, cottonwood  
 even the itches and snot it brings  
-
 and three thousand miles to go  
 each another reason to keep going  
