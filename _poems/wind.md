@@ -6,7 +6,7 @@ layout: poem
 “lighter's out.”  
 “what do you mean it’s out?”  
 “the butane's not warm enough.”  
-I look up at the small flecks against the night sky;  
+I look up at flecks against the night sky;  
 one falls into my tear duct—small jerk of my head—  
 now to leave a frosted streak down to my chin.  
 the last match didn’t succeed in starting civilization;  
