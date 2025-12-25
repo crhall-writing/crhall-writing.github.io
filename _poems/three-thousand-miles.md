@@ -8,7 +8,7 @@ the one you should’ve thrown away
 grinds into your veins   
 and the bass thumps so loud  
 you roll down the windows   
-and invite the night to rock along  
+to invite the night to rock along  
 
 asphalt stretches and thins  
 and runs wherever you let it  
