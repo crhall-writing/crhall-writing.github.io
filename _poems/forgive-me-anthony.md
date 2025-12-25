@@ -8,7 +8,7 @@ the first rule we got
 performing, you and me  
 you and I swayed the same way  
 a nervous habit   
-facing five other onlookers  
+facing the five onlookers  
 in our little club of playing along  
 
 and when he told me,   
