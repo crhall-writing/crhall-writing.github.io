@@ -6,7 +6,7 @@ layout: poem
 
 pushing pill pouches  
 per request, as this one knows best.  
-explain to him--of your age  
+explain to him--your same age  
 yet too young to understand  
 that a phone works both ways;  
 you're thankful the other line's dead.  
