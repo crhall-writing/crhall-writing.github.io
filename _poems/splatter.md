@@ -4,7 +4,7 @@ date: 2025-12-21
 layout: poem
 ---
 mist hovers over lines  
-like a slot machine  
+to a slot machine  
 yellow, black, yellow  
 like beats, each match  
 artefact-scattered transmissions  
