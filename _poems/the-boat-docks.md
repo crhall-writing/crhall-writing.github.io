@@ -5,7 +5,7 @@ layout: poem
 ---
 vasovagal syncope  
 fascinates me  
-so much that I take regular drops  
+so much that I make regular drops  
 to the often warned-of boat docks  
 
 the ones where I pray my car never breaks  
