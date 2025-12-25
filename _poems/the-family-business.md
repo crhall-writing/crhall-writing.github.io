@@ -13,7 +13,7 @@ but you're thankful the other line's dead
 
 the skill of the trade--  
 the best-kept secrets fall in place  
-thinking deals were made with purpose  
+thinking deals were made with basis    
 they came to be in the times you were dreaming  
 on the way to meetings  
 have you ever gotten to your destination  
