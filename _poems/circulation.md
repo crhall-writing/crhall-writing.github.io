@@ -17,6 +17,6 @@ where infrastructure won’t come to save you
 it’s a question of frostbite, not discomfort   
 
 *oh—fuck.*   
-a plume of powder slams into the windshield  
+a plume of powder consumes the windshield  
 a Chevy is idle, hazards on  
 I turn the heat up and wait on a tow truck  
