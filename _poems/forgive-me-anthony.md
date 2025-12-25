@@ -6,7 +6,7 @@ layout: poem
 play along  
 the first rule we got   
 performing, you and me  
-you and I swayed in the same way  
+you and I swayed the same way  
 a nervous habit   
 facing five other onlookers  
 in our little club of playing along  
