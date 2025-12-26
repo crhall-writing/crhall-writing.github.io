@@ -7,10 +7,10 @@ the way she walks
 upon ice as thin as glass  
 
 a miracle if she crosses to the other side  
-how one could walk on water so impossibly  
+how one could've walked on water  
 
 she performs another every day  
-and never wonders of when it'll end  
+and never wonders when it'll end  
 
 life is only unfair  
 when you expect fairness 
