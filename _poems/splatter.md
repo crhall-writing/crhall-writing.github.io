@@ -22,7 +22,7 @@ simply caressing your shoulders
 allowing them to slacken  
 
 and as the deadening beams pass  
-your breath gave your lungs no time to catch  
+your breath giving lungs no time to catch  
 whether you know it or not  
 the white splatter  
 between your bumper and the infinity ahead  
