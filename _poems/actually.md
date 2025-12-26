@@ -7,7 +7,7 @@ layout: poem
 she said with astonishment  
 and he looked down with disappointment  
 
-he remembered to back before it all started  
+he remembered back to before it all started  
 she came in a blue cap and side ponytail  
 offering something he'd always refuse  
 
