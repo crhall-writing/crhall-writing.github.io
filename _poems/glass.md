@@ -13,4 +13,4 @@ she performs another every day
 and never wonders when it'll end  
 
 life is only unfair  
-when you expect fairness 
+when fairness is what you expect  
