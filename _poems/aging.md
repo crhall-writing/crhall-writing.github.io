@@ -20,6 +20,6 @@ keeping people so fine-tuned
 and so unaware of the whole   
 
 I try as hard as I can  
-to be understanding  
+to understand   
 but I know most would immediately crack  
 under, to me, what’s nothing at all  
