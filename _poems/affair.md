@@ -1,6 +1,6 @@
 ---
 title: affair
-date: 2025-12-16
+date: 2025-12-26
 layout: poem
 ---
 the movies are strange    
