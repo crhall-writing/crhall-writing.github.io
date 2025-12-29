@@ -8,7 +8,7 @@ out of their sockets
 for the amount of times I’ve had  
 to compensate for your existence  
 
-my blood pressure raises  
+my blood pressure rises  
 and you still think it’s all about you  
 people around are losing their heads  
 just to coddle to your every whim  
