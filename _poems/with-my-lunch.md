@@ -16,6 +16,6 @@ or my grandma after a heart attack at seventy-seven.
 
 she’s going to suck it up, like a good girl does,  
 and wonder not when it’ll stop,  
-moving her strands out of the way to showcase a smile—  
+moving her strands out the way to showcase a smile—  
 but not too wide—    
 don’t ever enjoy it too much.   
