@@ -11,8 +11,8 @@ they can go unnoticed passing by
 state lines, like a fly in a beehive,   
 
 doing whatever dirty work they need to get done.     
-yeah, no, I don’t care for that part of it.   
-but I think to myself, on a long drive,   
+yeah, no, I don’t care for that part.   
+but I think to myself, driving through dark,   
 
 *they must have so much time*   
 
