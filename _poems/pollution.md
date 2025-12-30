@@ -5,5 +5,6 @@ layout: poem
 ---
 *when was the last time I saw stars?*  
 now so far from the remorseless  
-drowning of their mark  
-the clouds are just as callous   
+drowning of their mark,  
+the clouds are just as callous.  
+
