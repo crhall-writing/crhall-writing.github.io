@@ -13,5 +13,6 @@ these cars are forced to wait—how many times tonight?”
 
 I nod without a word, and a few minutes later,  
 the two halves, once more, become one.  
-they say they do this more at night   
-to accommodate the daytime drives.   
+they say they do this more at night  
+to accommodate the daytime drives.  
+ 
