@@ -14,7 +14,7 @@ doing whatever dirty work they need to get done.
 yeah, no, I don’t care for that part.   
 but I think to myself, driving through dark,   
 
-*they must have so much time*   
+they must have so much time   
 
 for the disposal, cleanup, whatever act itself.   
 it’s so fucked to live in a society   
