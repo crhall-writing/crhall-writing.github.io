@@ -8,7 +8,7 @@ I go to the blood bank and they check my hemoglobin
 my hemoglobin’s all good, they say   
 but hemochromatosis lives in my liver, my pancreas, my heart   
 and they tell me the reason your heart’s not magnetic     
-is because the iron’s not in a form to clump up, pumped blood   
+is because the iron’s not in a form to clump up in pumped blood   
 but I think my heart flies out my chest to the nearest piece of lead   
 metallic poison   
 and they say milk thistle might help my chances  
