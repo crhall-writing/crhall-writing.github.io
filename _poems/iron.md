@@ -12,7 +12,7 @@ is because the iron’s not in a form to clump up in pumped blood
 but I think my heart flies out my chest to the nearest piece of lead   
 metallic poison   
 and they say milk thistle might help my chances  
-she’s there, thick blond hair falling down to her waistline  
+she’s there, thick blonde hair falling down to her waistline  
 whether in a ponytail or down, sublime   
 closely related to a daisy    
 and she’s got no metallic poison in her veins    
