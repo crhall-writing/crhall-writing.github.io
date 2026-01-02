@@ -12,7 +12,7 @@ a sense of dread that runs to the fingertips from the center
 and I wonder, how can I be more approachable?     
 more patient, listen more, put up with more, be interested more?     
 why was the only way out seemingly to blow up and say “fuck off?”     
-to him, him, him, him, him, him, him, and, almost forgot, him too.     
+to him, him, him, him, him, him, him, and, almost forgot, him, too.     
 is there something I’m doing, did they have a warrant to randomly do this?     
 
 listen to this: I’m roped into going to a few things with a guy, friends of a visiting friend    
