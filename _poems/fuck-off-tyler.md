@@ -15,7 +15,7 @@ why was the only way out seemingly to blow up and say “fuck off?”
 to him, him, him, him, him, him, him, and, almost forgot, him, too.     
 is there something I’m doing, did they have a warrant to randomly do this?     
 
-listen to this: I’m roped into going to a few things with a guy, friends of a visiting friend    
+listen to this: I’m roped into going to a few things with a guy, friends of a visiting friend;    
 the entire time the new guy’s poking the bear, trying to get a reaction  
 
 first he's telling me I should feel less of a human if I have no reaction to death  
