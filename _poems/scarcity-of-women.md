@@ -18,4 +18,4 @@ thinking you need to own her, dominate
 dressed up as taking her on a date  
 
 then the lack of women surrounding you isn’t just fate  
-it’s almost like you suck balls or something  
+I think it has more to do with you sucking balls    
