@@ -30,7 +30,7 @@ expecting some type of pause and self admittance to being a bitch, right?
 I say to him, “you should cry—it builds character”     
 he falls to an uncomfortable silence after that.     
 
-then, I’m replaying it all again, wondering what I did to invite all of that--
+then, I’m replaying it all again, wondering what I did to invite all of that--  
 wondering if I embarrassed myself in front of my friend,    
 wondering if I should’ve been more gentle, womanly, what the guy expected from me.      
 
