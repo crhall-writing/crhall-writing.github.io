@@ -19,8 +19,8 @@ listen to this: I’m roped into going to a few things with a guy, friend of a v
 the entire time the new guy’s poking the bear, trying to get a reaction--  
 
 first he's telling me I should feel less human if I have no reaction to death  
-when I said I didn't have any interest in watching some shooting of a neo-Nazi  
-I tell him, I'm caring for a hospice patient  
+when I said I didn't have any interest in watching some shooting of a neo-Nazi.  
+I tell him, I'm caring for a hospice patient;  
 you think I can be affected when death's staring straight at me on a daily basis? 
 
 
