@@ -8,4 +8,4 @@ layout: poem
 “you gonna just sit back, take your situation? give in to it?” he gestured to me,  
 a tiny fire in his hand.   
 the wind hummed past as I looked into the eyes of my situation  
-and the trees dropped their own ashes down to us.  
+and the trees dropped their own ashes down upon us.  
