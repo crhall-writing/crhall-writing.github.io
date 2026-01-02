@@ -3,11 +3,11 @@ title: fuck off, tyler
 date: 2026-01-01
 layout: poem
 ---
-I’ve never found a great way to describe guilt      
-almost like a period cramp, deep inside      
-close to the groin but definitely not pleasurable      
-and a tightening of the chest, a raising of the shoulders     
-a sense of dread that runs to the fingertips from the deep center      
+I’ve never found a great way to describe guilt;      
+almost like a period cramp, deep inside,      
+close to the groin but definitely not pleasurable,      
+and a tightening of the chest, a raising of the shoulders,     
+a sense of dread that runs to the fingertips from the deep center.      
 
 and I wonder, how can I be more approachable?     
 more patient, listen more, put up with more, be interested more?     
