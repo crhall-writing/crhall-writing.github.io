@@ -7,6 +7,7 @@ you know, I get the same answer every time
 that there’s some secret scarcity of women     
 and that’s why almost every man I’ve ever interacted with     
 feels some need to ask me out  
+
 when I know for a fact they don’t even like me  
 
 why is that? last I checked there’s a roughly equal    
