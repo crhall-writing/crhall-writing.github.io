@@ -24,7 +24,7 @@ I tell him, I'm caring for a hospice patient;
 you think I can be affected when death's staring straight at me on a daily basis? 
 
 
-after the fifteenth time in two days, I tell him to fuck off       
+after the fifteenth time in two days, I tell him to fuck off.       
 he says something like, “I don’t know if I should cry right now or what”    
 expecting some type of pause and self admittance to being a bitch, right?     
 I say to him, “you should cry—it builds character”     
