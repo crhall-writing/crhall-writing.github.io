@@ -30,19 +30,19 @@ expecting some type of pause and self admittance to being a bitch, right?
 I say to him, “you should cry—it builds character”     
 he falls to an uncomfortable silence after that.     
 
-then, I’m replaying it all again, wondering what I did to invite all of that      
-wondering if I embarrassed myself in front of my friend    
-wondering if I should’ve been more gentle, womanly, what the guy expected from me      
+then, I’m replaying it all again, wondering what I did to invite all of that--
+wondering if I embarrassed myself in front of my friend,    
+wondering if I should’ve been more gentle, womanly, what the guy expected from me.      
 
 my thoughts are interrupted; I check my phone,     
 the guy’s texted me asking me on a date now that my friend's gone     
-and we’re alone      
+and we’re alone.      
 
-he got every opportunity to get away with it           
-but his dick couldn’t let him  
+he got every opportunity to get away with it,           
+but his dick couldn’t let him.  
 
-and what he helped me realize is      
-guys don’t show up, stick to you like glue      
+and what he helped me realize is,      
+guys don’t show up, stick to you like glue,      
 insult you until you’re blue      
 and ready to scream it all out      
-if they’re innocent     
+if they’re innocent.     
