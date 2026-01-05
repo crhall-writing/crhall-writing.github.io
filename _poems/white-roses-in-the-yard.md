@@ -13,7 +13,7 @@ signaling her to come take a whiff
 but that wasn’t the full story  
 suddenly I was back in the unkempt, dry grass, calves destined to itch  
 but not quit yet   
-as I picked the juvenile white drift roses off the bush, and each time  
+as I picked the juvenile white drift roses off the bush, each time  
 peeling every one down to the bud  
 the way I used to chew my nails down to their raw, soaked beds  
 
