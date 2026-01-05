@@ -8,7 +8,7 @@ layout: poem
 “it doesn’t say; just some name without a description.” I held out my arm  
 signaling her to come take a whiff  
 “oh—wow.” she raised her head, then went back for one more, deeper this time    
-“right? I think it’s just like a fresh flower”  
+“right? I think it’s just like fresh flowers”  
 
 but that wasn’t the full story  
 suddenly I was back in the unkempt, dry grass, calves destined to itch  
