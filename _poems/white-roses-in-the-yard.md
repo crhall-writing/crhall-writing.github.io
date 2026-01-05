@@ -15,7 +15,7 @@ suddenly I was back in the unkempt, dry grass, calves destined to itch
 but not quit yet   
 as I picked the juvenile white drift roses off the bush, and each time  
 peeling every one down to the bud  
-the way I used to chew my nails down to the raw, soaked bed  
+the way I used to chew my nails down to their raw, soaked beds  
 
 and then I was in a field at sunset with J   
 taking pictures of one another, like that was our job   
