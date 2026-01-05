@@ -38,5 +38,5 @@ I’m cursing myself for oversharing to an innocent worker
 and she comes back with a bouquet, the smell of which I’ll never forget   
 telling me it’s on her, and that she’s been there before   
 
-“I think I’m more of a dessert scent gal, truth be told,” she replies back to me  
-and I smile, retracting my arm, wondering what desserts meant to her  
+“I think I’m more of a dessert scent gal, truth be told,” she replied back to me  
+and I smiled, retracting my arm, wondering what desserts meant to her  
