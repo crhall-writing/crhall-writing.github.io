@@ -28,7 +28,7 @@ and I gave his dad a copy of Luca Turin’s guide to perfumes
 and his dad cried as he always did, a sharp hug   
 one that could only be shared between a man who loves men   
 and a woman who secretly loves women   
-both who spilled their souls on pages like it was all that could hold   
+both who spilled their souls on pages like they were all that could hold   
 the enormous weight of two people like us   
 
 and I blink and look at the cashier, telling her it’ll be a long night in the hospital   
