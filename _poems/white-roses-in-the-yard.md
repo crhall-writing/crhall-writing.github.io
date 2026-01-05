@@ -25,7 +25,7 @@ dreaming of life as so much more than it is
 his hair had just grown back, remission of four months   
 and two months earlier, bald-headed J and I went to Santa Fe   
 and I gave his dad a copy of Luca Turin’s guide to perfumes   
-and his dad cried as he always did, a sharp hug   
+and his dad cried as he always did, a sharp hug ensued    
 one that could only be shared between a man who loves men   
 and a woman who secretly loves women   
 both who spilled their souls on pages like they were all that could hold   
