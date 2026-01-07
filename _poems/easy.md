@@ -15,4 +15,4 @@ her free time is unneeded
 for she’s content with pleasing through the weekend  
 
 and her grief is simple and welcomed  
-since it would never cause anyone discomfort  
+since it would never cause discomfort to anyone  
