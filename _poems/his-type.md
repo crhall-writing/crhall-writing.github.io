@@ -1,6 +1,6 @@
 ---
 title: his type
-date: 2026-01-17
+date: 2026-01-07
 layout: poem
 ---
 you’d look at the scars on her stomach   
