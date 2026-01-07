@@ -13,7 +13,7 @@ and certainly not laziness
 I left school every day  
 to go to my night classes at the local community college  
 
-sitting in a computer lab for three hours after a five hour lecture  
+sitting in a computer lab for three hours after a two hour lecture  
 never wanting the night to end  
 even when sleep was banging at the walls of my brain  
 begging for something to give  
