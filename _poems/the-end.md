@@ -21,4 +21,4 @@ begging for something to give
 but I don’t want to ruminate on the finish line  
 I won’t care to walk the aisle in a gown and cap  
 I’m not proud or sad when something is done    
-I’ve already forgotten it and moved on  
+I’ve already forgotten and carried on   
