@@ -15,7 +15,7 @@ the gunshot still rings loud
 in this city I love  
 I gaze to the skyline, wondering how  
 
-It could ever be the city I love  
+it could ever be the city I love  
 and then they all surround  
 
 candlelight warming the city I love  
