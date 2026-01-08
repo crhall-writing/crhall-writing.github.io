@@ -18,7 +18,7 @@ but not enough to inconvenience me
 or embarrass me around my buddies   
 we like ‘em broken, and you see,   
 
-it’s not ‘cause I care about the reason;   
+it’s not ‘cause I care about the reason   
 she better never become a burden on us   
 I want her happy through my own sad season   
 but she better not enjoy it too much   
