@@ -19,6 +19,6 @@ It could ever be the city I love
 and then they all surround  
 
 candlelight warming the city I love  
-even in winder they crowd  
+even in winter they crowd  
 
 together to protect this city I love
