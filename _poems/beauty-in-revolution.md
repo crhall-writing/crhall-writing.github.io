@@ -1,5 +1,5 @@
 ---
-tite: beauty in revolution
+title: beauty in revolution
 date: 2026-01-09
 layout: poem
 ---
