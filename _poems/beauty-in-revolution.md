@@ -13,7 +13,7 @@ nah, my sisters and brothers I adore inside and out
 they’re men who look like women and women who look like men   
 and everywhere in between they’re searching for   
 the solution that’s gonna compound the accountability   
-to those who’ve been abusing this system for far too long   
+of those who’ve been abusing this system for far too long   
 
 they’re the ones you need, not the beautiful girls  
 or society-accepted guys who ran their frats in college  
