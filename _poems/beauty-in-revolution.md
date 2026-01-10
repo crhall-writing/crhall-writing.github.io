@@ -18,4 +18,5 @@ to those who’ve been abusing this system for far too long
 they’re the ones you need, not the beautiful girls  
 or society-accepted guys who ran their frats in college  
 the revolution is ugly, and rightly so  
-we deem pretty the faces that have held their power spilling blood  
+we deem pretty the faces that have held their own  
+power spilling blood  
