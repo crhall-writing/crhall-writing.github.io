@@ -1,6 +1,6 @@
 ---
 title: minneapolis report, 01.10.2026
-date: 2025-01-10
+date: 2026-01-10
 layout: poem
 ---
 out all day, first thing a bust  
