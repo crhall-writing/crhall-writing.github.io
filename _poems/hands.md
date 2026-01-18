@@ -4,11 +4,11 @@ date: 2026-1-17
 layout: poem
 ---
 10:54am  
-his mouth hung down, left  
+mouth hung down, left  
 exposing his bottom teeth, patterned with black,  
 brown, and green  
 “they’re turning blue”  
-she said, between small gaps of planned-out grief  
+she said, between small gasps of planned-out grief  
 watching his lips, never again to speak  
 the way we three would always do  
 
