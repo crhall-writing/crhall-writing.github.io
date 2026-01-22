@@ -44,7 +44,7 @@ need to roll my windows up, get to the next car wash
 make sure ventilation is inside, never outward bound  
 they’ll break my windows, pull me out  
 put me in cuffs, until some noble bystander makes a record  
-‘cause hey hate their faces engraved into history  
+‘cause they hate their faces engraved into history  
 
 nine hours later I’m on plate check, then they don’t have capacity  
 and dispatch is me, suddenly, I fall into the role  
@@ -53,5 +53,5 @@ in a fucking nazi gestapo state, and I have real people here
 doing real work that helps real people  
 and pushing the button  
 is suddenly  
-wha make it all  
+what makes it all  
 worth it  
