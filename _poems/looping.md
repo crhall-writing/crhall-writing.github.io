@@ -8,27 +8,11 @@ looping thoughts
 gives an exit for the roundabout way of my heart    
 to shoot off and land wherever it wants  
 
-but right now the spinning is nauseating  
-I vomited three times through last night   
-and today my uncle came just to start a fight   
-and there wasn’t anything to do but let him have it   
-
-the satisfaction of beating someone down   
-no matter how far they are already underground   
-I’m just too exhausted to care anymore   
-about feeling righteous or respected or whatever   
-
 my chest aches, tearing and winding and mangling   
 whatever sits under that set of ribs   
 I still remember how gigantic that mound felt against his   
 breaking his bones to escape   
 
-while I’m getting my knees busted by a group of guys   
-unable to handle the loss of another guy they knew on their own   
-like I can control the time to make theirs more than mine   
-I understand why it’d be so hard to cope   
- 
-it is for me, and I can’t imagine doing it more perfectly   
 I’m not angry at myself   
 it was like he came to me, guiding my sleep   
 last night   
@@ -38,13 +22,10 @@ grief
 
 seeing every bit of him, inside and out   
 for so much time, so many days and nights   
-from chemo in rochester   
+from treatment in rochester   
 weeks spent driving hours at a time   
 staying in grimy motels   
-salty parking lots   
-cocktails at the thai place down the street   
-and that kwik trip, the one where I accidentally bought   
-all those energy drinks, thinking they were sparkling water   
+salty parking lots    
 the ring of the bell when he was all done   
 him still insisting on using his cane   
 then slowly needing a walker   
@@ -63,13 +44,13 @@ demanding and in such hefty pain
 but so quiet   
 
 until it was gone   
-his meek little body   
+his little body   
 once a behemoth frightening me as a child   
-then just a hollowed body   
-where so much had once been   
+then just a hollowed form     
+where so much more had once been   
 
 I’ll miss him for the rest of my life   
-I’m just not angry anymore  
+I’m not angry anymore  
 I just ask anything that could exist, that’s ever existed   
 please, please, show me a ghost   
 please, let something be out there   
@@ -78,7 +59,7 @@ I haven’t heard my favorite voice in so much time
 a year and a half without his tongue   
 a year and a half since he sat with me and talked   
 a year and a half since he drank a martini   
-so incredible together with me   
+so incredibly together with me   
 a year and a half fucking wasted as he wasted away   
 unable to eat or taste food  
 or hug me without worrying about his trach tube   
