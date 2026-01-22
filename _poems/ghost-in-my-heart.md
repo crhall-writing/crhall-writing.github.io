@@ -6,7 +6,7 @@ layout: poem
 I don’t have time to ponder on  
 the ghost that lives in my heart  
 I don’t have time to linger  
-on that reflection for enough time  
+on that reflection for time enough  
 to make it warp into a figure  
 resembling who I wish was there most  
 
