@@ -3,7 +3,7 @@ title: writing styles
 date: 2026-02-03
 layout: poem
 ---
-i once knew one who wrote such wondrous prose  
+I once knew one who wrote such wondrous prose  
 in lush greens and branches that dreams  
 only could hold, such glamour, as  
 the whole world was technically righteous  
