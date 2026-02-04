@@ -25,7 +25,7 @@ that we both would explain through smokey streets
 on sticky summer nights or wily winter spites  
 that maybe God came to us through the ugliness of life.  
 I waited for you to come through the haze  
-and tell me my waiting wasn’t in vain  
+and tell me my waiting wasn’t all in vain  
 but at the end of the long and winding road  
 there was only me  
 waiting to show all my current prophecies  
