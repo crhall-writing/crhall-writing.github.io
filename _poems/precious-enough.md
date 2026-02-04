@@ -52,7 +52,7 @@ but there wasn’t anything more I could do
 and I think now, about the bed of soil  
 I don’t think anything was set to grow  
 maybe the field was salted  
-and there’s nothing to reap where nothing was sowed   
+and there’s nothing to reap where nothing was sown     
 
 but now—so long later  
 the coldness of your stare no longer scares  
