@@ -20,7 +20,7 @@ anything when they don’t cause great discomfort
 or a bed for someone who’s never truly slept?  
 
 somehow, and I never read a lick of this,  
-I thought someday you’d write what I’d read,  
+I thought someday you’d write a thing I’d read,  
 that we both would explain through smokey streets  
 on sticky summer nights or wily winter spites  
 that maybe God came to us through the ugliness of life.  
