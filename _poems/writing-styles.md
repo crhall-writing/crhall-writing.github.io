@@ -20,16 +20,16 @@ anything when they don’t cause great discomfort
 or a bed for someone who’s never truly slept?  
 
 somehow, and I never read a lick of this,  
-I thought someday you’d write something I’d read,  
-that we both would explain through smokey, blacked-out streets  
-on sticky summer nights or violent winter spites  
+I thought someday you’d write what I’d read,  
+that we both would explain through smokey streets  
+on sticky summer nights or wily winter spites  
 that maybe God came to us through the ugliness of life.  
 I waited for you to come through the haze  
 and tell me my waiting wasn’t in vain  
 but at the end of the long and winding road  
 there was only me  
 waiting to show all my current prophecies  
-and how wrong they’d be  
+and how wrong they’d one day be  
 and standing so tall, though without having grown,  
-with hand outstretched to my shoulder it lay,  
+with hand outstretched, to my shoulder it lay,  
 things are better off this way.    
