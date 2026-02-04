@@ -19,7 +19,7 @@ are regurgitations of patterns of grammar
 anything when they don’t cause great discomfort  
 or a bed for someone who’s never truly slept?  
 
-somehow, and I never read a lick of any of this,  
+somehow, and I never read a lick of this,  
 I thought someday you’d write something I’d read,  
 that we both would explain through smokey, blacked-out streets  
 on sticky summer nights or violent winter spites  
