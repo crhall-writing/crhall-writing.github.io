@@ -60,7 +60,7 @@ and it doesn’t make me question any intention
 it’s just there  
 
 hidden in some sacred place towards the back of my diaphragm  
-and I’d like to suppose you’ll always be right there  
+and I’d like to suppose you’ll always be there  
 but life can go on and be full and alive  
 without any pictures to prove I was right  
 
