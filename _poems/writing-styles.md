@@ -32,4 +32,4 @@ waiting to show all my current prophecies
 and how wrong they’d one day be  
 and standing so tall, though without having grown,  
 with hand outstretched, to my shoulder it lay,  
-things are better off this way.    
+things--they are better off this way.    
