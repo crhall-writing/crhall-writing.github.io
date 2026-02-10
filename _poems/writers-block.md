@@ -4,7 +4,7 @@ date: 2026-02-09
 layout: poem
 ---
 am I allowed to write about   
-ho I have this writer’s block?  
+how I have this writer’s block?  
 I swear I could prolifically produce  
 when asked about my troubles producing  
 
