@@ -33,4 +33,4 @@ hours
 the clock’s ticking  
 and I’m an expert at wasting time  
 but I love every minute I waste  
-I don’t thin I have to feel guilty for it anymore  
+I don’t think I have to feel guilty for it anymore  
