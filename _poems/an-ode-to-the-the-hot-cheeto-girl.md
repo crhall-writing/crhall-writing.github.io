@@ -27,6 +27,6 @@ through so much experience
 
 of what it’s like to be singled out  
 
-never again, not to her or him  
+never again, not to her and not to him  
 
 she'll give you lots to think about  
