@@ -23,14 +23,10 @@ she’d always be there for her folks
 
 smokey eyeshadow, facing her foes  
 
-who the hell would gang up  
-
-on a woman like this, the one  
-
-always sticking up for her kin  
-
 through so much experience  
 
-of what it’s like to be the one singled out  
+of what it’s like to be singled out  
 
-never again, she’ll spout  
+never again, not to her or him  
+
+she'll give you lots to think about  
