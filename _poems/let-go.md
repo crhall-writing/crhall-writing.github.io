@@ -1,6 +1,6 @@
 ---
 title: let go
-date: 2025-03-16
+date: 2026-03-16
 layout: poem
 ---
 “you called me in, boss?”  
