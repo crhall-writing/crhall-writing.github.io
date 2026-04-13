@@ -33,4 +33,4 @@ you’ll wait for another to do it for you
 
 and even though I thought you’d be my soulmate  
 the one I had was the better of you both  
-he at least knew, he’d reap whatever he sowed  
+he at least knew; he’d reap whatever he sowed  
