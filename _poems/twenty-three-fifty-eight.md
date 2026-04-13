@@ -24,8 +24,8 @@ zero-zero-oh-one
 you’re fast asleep  
 
 “are you well read?”  
-and I s’pose you won’t know 
-what it’s like to sit across from me  
+and I s’pose you won’t know  
+what it’s like to sit across from me    
 spouting thoughts at zero-zero-oh-three  
 
 “are you well read?”  
