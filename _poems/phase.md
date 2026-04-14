@@ -8,7 +8,7 @@ or to feel something
 anything  
 aside from the emptiness
 of wanting what will never come  
-an would never come  
+and would never come  
 
 maybe I wanted to know  
 I stood up for the hope of more  
