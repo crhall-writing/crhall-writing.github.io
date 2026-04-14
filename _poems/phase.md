@@ -34,7 +34,7 @@ you don’t know any more from me
 and I never really knew you  
 
 the world spins at the same speed  
-and my world is forever un-based  
+and my world is forever un-phased  
 I feed some heaviness, yes, in my chest  
 maybe some day I’ll cry  
 but I don’t feel enough to yet
