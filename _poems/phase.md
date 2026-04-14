@@ -21,7 +21,7 @@ and I was so different for being so okay
 but lately I’ve felt the weight  
 of being who I really am  
 
-I now you won’t care  
+I know you won’t care  
 you’ll shrug those numb shoulders 
 and go on with your day   
 and your week  
