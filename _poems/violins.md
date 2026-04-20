@@ -14,8 +14,8 @@ and maybe your heart will skip as mine
 
 and I’ll finally get those chances I never had before  
 suppose I asked you every pressing question  
-that’s been on my mid since the beginning  
-would it make any difference this time?  
+that’s been on my mind since the beginning  
+would there be something new we'd find?    
 
 or would you hold me hostage again  
 to your whims that work not  
