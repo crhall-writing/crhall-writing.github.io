@@ -12,7 +12,7 @@ or to tell?
 
 I want both  
 I want them all  
-I want to be laid on a blanket  
+I want to be laid on a blanket  
 in the grass  
 
 
