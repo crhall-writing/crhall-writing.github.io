@@ -22,4 +22,4 @@ have you gleaned what I’ve been meaning?
 and will you take my hand and come with me through it all?  
 
 and if you daydream about the same things  
-that’ll always be enough for me  
+for me, that'll always be enough    
