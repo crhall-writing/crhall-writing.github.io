@@ -4,11 +4,11 @@ date: 2026-04-20
 layout: poem
 ---
 the elegy to Keats  
-that called Adonais  
+that mourned Adonais  
 	
 I know you know it  
 and if you didn’t  
-I’d have no fascination of you  
+I’d have no fascination with you  
 
 but---oh, maybe  
 now is the time  
