@@ -1,6 +1,6 @@
 ---
 title: field
-dae: 2026-04-19
+date: 2026-04-19
 layout: poem
 ---
 when I tell you my woes  
