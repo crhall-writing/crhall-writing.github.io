@@ -3,7 +3,7 @@ title: thunder
 date: 2026-05-18
 layout: poem
 ---
-and the thunder will break through the atmosphere  
+and thunder will break through the atmosphere  
 it will—whether you answer  
 and it does, beautifully so  
 pour through the eve’s glow  
