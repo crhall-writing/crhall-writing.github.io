@@ -40,6 +40,10 @@ defaults:
     values:
       layout: poem
       sitemap: true
+  - scope: { path: "", type: aidan }
+    values:
+      layout: aidan
+      sitemap: true
   - scope: { path: "", type: stories }
     values:
       layout: story
