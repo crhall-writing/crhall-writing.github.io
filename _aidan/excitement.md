@@ -24,7 +24,7 @@ like I would never, ever fall out
 and I didn't even realize  
 you were at the very edge  
 like you always are, in both of our beds  
-but you always make sure I first have room  
+since you always make sure I have enough
 
 I will never be more loved  
 and I never want to be  
