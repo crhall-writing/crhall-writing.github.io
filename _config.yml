@@ -25,6 +25,9 @@ collections:
   poems:
     output: true
     permalink: /poems/:title/
+  aidan:
+    output: true
+    permalink: /aidan/:title/
   stories:
     output: true
     permalink: /stories/:title/
