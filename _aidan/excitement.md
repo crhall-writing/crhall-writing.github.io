@@ -23,7 +23,7 @@ I felt so incredibly safe
 like I would never, ever fall out  
 and I didn't even realize  
 you were at the very edge  
-like you always are, in both of our beds  
+like you always are, in both our beds  
 since you always make sure I have enough
 
 I will never be more loved  
