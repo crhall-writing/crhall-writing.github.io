@@ -42,7 +42,7 @@ defaults:
       sitemap: true
   - scope: { path: "", type: aidan }
     values:
-      layout: aidan
+      layout: poem
       sitemap: true
   - scope: { path: "", type: stories }
     values:
