@@ -17,6 +17,7 @@ minima:
 header_pages:
   - stories.md
   - poems.md
+  - aidan.md
   - scripts.md
   - about.md
 
@@ -24,6 +25,9 @@ collections:
   poems:
     output: true
     permalink: /poems/:title/
+  aidan:
+    output: true
+    permalink: /aidan/:title/
   stories:
     output: true
     permalink: /stories/:title/
@@ -33,6 +37,10 @@ collections:
 
 defaults:
   - scope: { path: "", type: poems }
+    values:
+      layout: poem
+      sitemap: true
+  - scope: { path: "", type: aidan }
     values:
       layout: poem
       sitemap: true
