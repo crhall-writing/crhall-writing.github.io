@@ -51,7 +51,7 @@ one more day to sing together
 I remember one night you encouraged me to sing  
 telling me my voice was beautiful  
 
-then when you were in the shower
+then when you were in the shower  
 I could hear myself singing louder  
 just to be heard, for you to compliment me  
 but you only left the bathroom eventually  
