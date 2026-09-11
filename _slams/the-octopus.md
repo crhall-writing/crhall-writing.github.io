@@ -66,8 +66,9 @@ and that leads me to the most interesting fact
 even with all of that  
 their average lifespan is 3-5 years for the big ones, 1-2 years for the small ones  
 they actually begin to self destruct, disintegrating from the inside,  
-their flesh eventually picked apart by scavengers while they’re still barely alive  
+their flesh picked apart by scavengers while they’re still barely alive  
 immediately after producing their offspring  
+
 the octopus, one can say, lives only to reproduce and die  
 and yet we pay its short life, and all of its story, so much value, and so much glory  
 that our concept of its longevity far outweighs its reality  
