@@ -18,6 +18,7 @@ header_pages:
   - stories.md
   - poems.md
   - scripts.md
+  - slams.md
   - about.md
 
 collections:
@@ -30,6 +31,10 @@ collections:
   scripts:
     output: true
     permalink: /scripts/:title/
+  slams:
+    output: true
+    permalink: /slams/:title/
+
 
 defaults:
   - scope: { path: "", type: poems }
@@ -43,6 +48,10 @@ defaults:
   - scope: { path: "", type: scripts }
     values:
       layout: script
+      sitemap: true
+  - scope: { path: "", type: slams }
+    values:
+      layout: slam
       sitemap: true
   - scope: { path: "" }
     values:
@@ -78,3 +87,4 @@ feed:
   collections:
     - poems
     - stories
+    - slams
