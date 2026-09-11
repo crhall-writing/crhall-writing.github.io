@@ -63,7 +63,7 @@ and in fact their amazing capabilities of communication come from their strict n
 back off  
 
 and that leads me to the most interesting fact  
-even with all of that, all the fascinations and capacities and interesting stats  
+even with all of that
 their average lifespan is 3-5 years for the big ones, 1-2 years for the small ones  
 they actually begin to self destruct, disintegrating from the inside,  
 their flesh eventually picked apart by scavengers while they’re still barely alive  
