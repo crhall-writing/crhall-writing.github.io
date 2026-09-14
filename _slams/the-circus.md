@@ -21,7 +21,9 @@ me at 20, 22, 24, and 26
 
 and at 27 something split  
 
-like an atom
+like an atom  
+
+
 
 
 but when the lights were off  
@@ -36,7 +38,9 @@ and god did I love the way he’d look down on me
 
 his reflection would be illuminated by incandescents  
 
-black liner and white paint would cake his juvenile face  
+black liner and white paint would cake his juvenile face    
+
+
 
 
 and for a minute or two   
@@ -45,7 +49,9 @@ he could feel whole, consequential
 
 to the glorious problems around him   
 
-he would become one of them   
+he would become one of them     
+
+
 
 
 but the train is leaving  
